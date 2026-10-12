@@ -1,0 +1,19 @@
+{
+  "backend": "tfidf",
+  "model": "tfidf-1-2gram",
+  "dimensions": 7644,
+  "vector_store": "faiss",
+  "chunk_max_words": 220,
+  "chunk_overlap_words": 40,
+  "documents": 14,
+  "chunks": 182,
+  "corpus_words": 13262,
+  "formats": [
+    "html",
+    "markdown",
+    "pdf",
+    "text"
+  ],
+  "corpus_hash": "4f2d0ec74700b557",
+  "build_seconds": 0.77
+}

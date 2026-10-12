@@ -1,0 +1,1640 @@
+[
+ {
+  "chunk_id": "POL-001::1::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "1. Purpose",
+  "section_number": "1",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "This policy defines the employment categories used at Lumora Systems, Inc. (\"Lumora\" or \"the Company\") and explains how a worker's classification determines eligibility for paid time off, benefits, remote work, stipends, and other programs. Many other Lumora policies refer back to the definitions in this document, so when a policy says \"eligible employees\" it means the categories listed as eligible in the tables below unless that policy states otherwise.\n\nClassification is assigned by People Operations at the time of hire and is recorded in PeopleHub, the Company's HR system of record. An employee's manager cannot change a classification; changes must be requested through an HR ticket and approved by People Operations."
+ },
+ {
+  "chunk_id": "POL-001::2::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "2. Scope",
+  "section_number": "2",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "This policy applies to all workers engaged by Lumora in the United States, Canada, and the United Kingdom, including workers who are fully remote. Country-specific statutory requirements take precedence where they provide a greater benefit to the worker than this policy."
+ },
+ {
+  "chunk_id": "POL-001::3.1::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "3.1 Full-Time Employee",
+  "section_number": "3.1",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "A full-time employee is a W-2 (US), T4 (Canada), or PAYE (UK) employee who is regularly scheduled to work 40 hours per week, recorded as an FTE (full-time equivalent) of 1.0. Full-time employees are eligible for all programs described in Lumora policies, subject to any tenure requirements stated in a specific policy."
+ },
+ {
+  "chunk_id": "POL-001::3.2::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "3.2 Part-Time Employee",
+  "section_number": "3.2",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "A part-time employee is a W-2, T4, or PAYE employee regularly scheduled to work fewer than 40 hours per week. Part-time employees have an FTE between 0.5 and 0.9. Their eligibility depends on FTE:\n\n- Part-time employees with an FTE of 0.75 or higher (30 or more hours per week) are \"benefits-eligible part-time\" employees. They are eligible for medical, dental, and vision coverage and for the 401(k) plan.\n- Part-time employees with an FTE below 0.75 are eligible for the 401(k) plan, sick leave, and the Employee Assistance Program, but not for medical, dental, or vision coverage.\n- All part-time employees accrue paid time off on a prorated basis (PTO accrual multiplied by FTE).\n- Part-time employees are not eligible for the one-time home office stipend or the annual learning budget unless their FTE is 0.75 or higher."
+ },
+ {
+  "chunk_id": "POL-001::3.3::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "3.3 Intern",
+  "section_number": "3.3",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "An intern is a temporary employee engaged for a defined program, typically 10 to 16 weeks. Interns are paid hourly and are W-2, T4, or PAYE employees. Interns:\n\n- do not accrue PTO, but receive sick leave (5 days per program) and paid company holidays that fall within their program dates;\n- are not eligible for medical, dental, vision, the 401(k) match, stipends, tuition reimbursement, or the learning budget;\n- are not eligible for remote work arrangements outside their assigned office, except with written approval from the University Programs lead;\n- may use the Employee Assistance Program."
+ },
+ {
+  "chunk_id": "POL-001::3.4::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "3.4 Contractor",
+  "section_number": "3.4",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "A contractor is an independent contractor or a worker supplied by an agency. Contractors are not employees of Lumora. Their working arrangements, time off, equipment, and expenses are governed entirely by their contract or statement of work. Contractors:\n\n- are not eligible for PTO, company benefits, stipends, the learning budget, or the work-from-abroad program;\n- may be reimbursed for expenses only where the statement of work explicitly allows it;\n- must follow the Information Security Policy (POL-006) and the Workplace Conduct Policy (POL-012) while engaged;\n- may use the Employee Assistance Program while actively engaged.\n\nQuestions about contractor arrangements must be directed to the Vendor Management team, not People Operations."
+ },
+ {
+  "chunk_id": "POL-001::4::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "4. Eligibility Summary Table",
+  "section_number": "4",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "Program | Full-time | Part-time \u22650.75 FTE | Part-time <0.75 FTE | Intern | Contractor\nPTO accrual (POL-002) | Yes | Prorated | Prorated | No | No\nSick leave (POL-009) | 10 days | Prorated | Prorated | 5 days | No\nMedical/dental/vision (POL-008) | Yes | Yes | No | No | No\n401(k) or local pension (POL-008) | Yes | Yes | Yes | No | No\nRemote work (POL-004) | Yes | Yes | Yes | Restricted | Per contract\nWork from abroad (POL-005) | Yes | Yes | Yes | No | No\nHome office stipend (POL-007) | Yes | Yes | No | No | No\nLearning budget (POL-007) | Yes | Yes | No | No | No\nTuition reimbursement (POL-008) | Yes, after 6 months | No | No | No | No\nParental leave (POL-009) | After 6 months | After 6 months | After 6 months | No | No\nEmployee Assistance Program | Yes | Yes | Yes | Yes | Yes"
+ },
+ {
+  "chunk_id": "POL-001::5::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "5. Introductory Period",
+  "section_number": "5",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "All new employees (full-time, part-time, and interns) complete a 90-day introductory period that begins on their start date. During the introductory period:\n\n- employees accrue PTO from their first day but may not use more than 3 days of PTO before day 90 without manager and HR approval;\n- employees are not eligible to request remote work from a location other than their assigned office or home address (see POL-004, Section 4);\n- employees are not eligible for the work-from-abroad program (see POL-005);\n- managers complete 30-, 60-, and 90-day check-ins as described in the Onboarding Guide (POL-010)."
+ },
+ {
+  "chunk_id": "POL-001::6::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "6. Tenure",
+  "section_number": "6",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "Tenure is measured from an employee's most recent hire date as recorded in PeopleHub. Tenure determines PTO accrual tier (POL-002), eligibility for tuition reimbursement and parental leave, and certain approval thresholds. Rehired employees whose break in service was less than 12 months have their prior service restored for accrual purposes."
+ },
+ {
+  "chunk_id": "POL-001::7::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "7. Work Location and Office Assignment",
+  "section_number": "7",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "Every employee has a work location recorded in PeopleHub. The work location is either one of Lumora's offices or a registered home address for remote employees. Lumora's offices are:\n\n- Atlanta, Georgia, USA (headquarters)\n- Austin, Texas, USA\n- Toronto, Ontario, Canada\n- London, United Kingdom\n\nThe work location determines the employee's payroll jurisdiction, the holiday calendar that applies (POL-003), and the tax and legal obligations that the Company must meet. Working from any location other than the registered work location for more than the thresholds in POL-004 and POL-005 requires approval, because it can create tax, payroll, immigration, and legal obligations for both the employee and the Company."
+ },
+ {
+  "chunk_id": "POL-001::8::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "8. Exempt and Non-Exempt Status (US)",
+  "section_number": "8",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "US employees are classified as exempt or non-exempt under the Fair Labor Standards Act. Non-exempt employees must record all hours worked in PeopleHub and are paid overtime for hours over 40 in a workweek. Non-exempt employees may not work outside their scheduled hours, including checking email, without prior manager approval. Exempt employees are not eligible for overtime."
+ },
+ {
+  "chunk_id": "POL-001::9::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "9. Changes in Classification",
+  "section_number": "9",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "Changes in classification (for example, full-time to part-time, or intern to full-time) take effect on the first day of the pay period after approval. Changes may affect PTO accrual rate, benefits eligibility, and stipend eligibility. When a change causes loss of benefits eligibility, coverage ends on the last day of the month in which the change occurs, and the employee will receive information about continuation coverage."
+ },
+ {
+  "chunk_id": "POL-001::10::0",
+  "doc_id": "POL-001",
+  "title": "Employment Classifications and Eligibility",
+  "section": "10. Questions",
+  "section_number": "10",
+  "source_file": "POL-001-employment-classifications.md",
+  "text": "Questions about classification should be submitted through an HR ticket in the \"Employment Records\" category. Employees should not rely on informal guidance from colleagues about their eligibility; PeopleHub and People Operations are the authoritative sources."
+ },
+ {
+  "chunk_id": "POL-002::1::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "1. Purpose",
+  "section_number": "1",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "Lumora believes that rest is essential to doing good work. This policy explains how eligible employees earn paid time off (PTO), how to request it, how much notice is required, and how unused PTO is handled. PTO covers vacation, personal days, and other planned time away. Sick leave, bereavement leave, jury duty, and parental leave are separate and are described in the Leave of Absence Policy (POL-009). Company holidays are described in the Holiday Calendar (POL-003) and do not reduce an employee's PTO balance."
+ },
+ {
+  "chunk_id": "POL-002::2::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "2. Eligibility",
+  "section_number": "2",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "Full-time and part-time employees accrue PTO as described in Section 3. Interns and contractors do not accrue PTO (see Employment Classifications, POL-001). Employees in their 90-day introductory period accrue PTO from day one, but may use no more than 3 days of PTO before day 90 unless their manager and People Operations approve an exception."
+ },
+ {
+  "chunk_id": "POL-002::3::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "3. Accrual Rates",
+  "section_number": "3",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "PTO accrues each pay period (semi-monthly, 24 pay periods per year) based on tenure:\n\nTenure | Annual PTO (full-time) | Accrual per pay period\nLess than 2 years | 15 days (120 hours) | 0.625 days (5.0 hours)\n2 years to less than 5 years | 20 days (160 hours) | 0.833 days (6.67 hours)\n5 years or more | 25 days (200 hours) | 1.042 days (8.33 hours)\n\nPart-time employees accrue PTO at the full-time rate multiplied by their FTE. For example, a part-time employee with an FTE of 0.6 and less than two years of tenure accrues 9 days per year.\n\nThe higher accrual rate begins on the first pay period after the employee reaches the relevant work anniversary."
+ },
+ {
+  "chunk_id": "POL-002::3.1::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "3.1 Balance Cap",
+  "section_number": "3.1",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "An employee's PTO balance may not exceed 30 days (240 hours) for full-time employees, prorated for part-time employees. When the balance reaches the cap, accrual pauses until PTO is used and the balance drops below the cap. PeopleHub displays a warning when an employee is within 5 days of the cap."
+ },
+ {
+  "chunk_id": "POL-002::3.2::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "3.2 Carryover",
+  "section_number": "3.2",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "Up to 5 days (40 hours) of unused PTO may be carried over into the next calendar year. Any balance above 5 days on December 31 is forfeited, except where local law requires otherwise. In Canada and the United Kingdom, statutory minimum vacation entitlements are always preserved and may not be forfeited; see the country supplements maintained by People Operations."
+ },
+ {
+  "chunk_id": "POL-002::4::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "4. Requesting PTO",
+  "section_number": "4",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "All PTO must be requested in PeopleHub and approved by the employee's direct manager before the time off begins. Verbal or chat approval is not sufficient. When submitting a request, employees should:\n\n1. Check their available balance in PeopleHub, including any pending requests that have not yet been deducted.\n2. Confirm that the dates do not overlap with company holidays (holidays do not need to be requested and do not use PTO).\n3. Submit the request with the required notice described in Section 5.\n4. Arrange coverage for critical responsibilities and set an out-of-office message.\n\nManagers must approve or decline PTO requests within 3 business days. If a manager does not respond within 3 business days, the employee may escalate to their skip-level manager or open an HR ticket in the \"Time Off\" category."
+ },
+ {
+  "chunk_id": "POL-002::4.1::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "4.1 Approval Requirements",
+  "section_number": "4.1",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "- Requests of 1 to 4 consecutive business days require direct manager approval.\n- Requests of 5 to 10 consecutive business days require direct manager approval and the employee must confirm coverage for any on-call rotation.\n- Requests of more than 10 consecutive business days require direct manager approval and department director approval.\n\nManagers may decline a request when it conflicts with critical business needs, such as a product launch, customer commitment, or quarter-end close, but should work with the employee to find alternative dates. A manager may not decline a request for a discriminatory or retaliatory reason."
+ },
+ {
+  "chunk_id": "POL-002::5::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "5. Notice Requirements",
+  "section_number": "5",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "Employees must give advance notice based on the length of the request:\n\nLength of request | Minimum notice\n1 business day | 2 business days\n2 to 4 business days | 5 business days\n5 to 10 business days | 10 business days\nMore than 10 business days | 20 business days\n\nNotice is measured in business days from the date the request is submitted in PeopleHub to the first day of the requested time off. Company holidays and weekends do not count as business days."
+ },
+ {
+  "chunk_id": "POL-002::5.1::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "5.1 Short-Notice Requests",
+  "section_number": "5.1",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "A manager may approve a request submitted with less than the minimum notice at their discretion. Short-notice requests are not guaranteed. Employees should explain the reason for the short notice in the request comments. Emergencies and illness should use sick leave or the appropriate leave type under POL-009 instead of PTO."
+ },
+ {
+  "chunk_id": "POL-002::6::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "6. Negative Balances and Advances",
+  "section_number": "6",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "Employees may not take PTO that they have not yet accrued, with one exception: full-time employees with at least one year of tenure may request an advance of up to 3 days against future accrual, with manager approval. An advance is repaid automatically from future accruals. Employees may not have more than one outstanding advance."
+ },
+ {
+  "chunk_id": "POL-002::7::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "7. Blackout Periods",
+  "section_number": "7",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "Some teams designate blackout periods during which PTO requests are generally not approved, such as the last two weeks of a fiscal quarter for Finance or major release windows for Engineering. Blackout periods must be published at least 60 days in advance in the team calendar. Requests that were approved before a blackout period was published will be honored."
+ },
+ {
+  "chunk_id": "POL-002::8::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "8. PTO and Holidays",
+  "section_number": "8",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "If a company holiday falls within an approved PTO period, the holiday is not deducted from the employee's PTO balance. For employees working outside their home country under an approved work-from-abroad arrangement (POL-005), the holiday calendar of their registered work location applies."
+ },
+ {
+  "chunk_id": "POL-002::9::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "9. PTO at Termination",
+  "section_number": "9",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "Upon separation, accrued and unused PTO (up to the balance cap) is paid out in the final paycheck where required by law or where the employee is in a jurisdiction that requires payout. In other US states, Lumora pays out accrued, unused PTO as a matter of policy. Any outstanding PTO advance is deducted from the final paycheck where permitted by law."
+ },
+ {
+  "chunk_id": "POL-002::10::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "10. Recording Time Off",
+  "section_number": "10",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "Exempt employees record full days of PTO only; partial days under 4 hours are not recorded. Non-exempt employees record PTO in hourly increments, with a minimum of 1 hour."
+ },
+ {
+  "chunk_id": "POL-002::11::0",
+  "doc_id": "POL-002",
+  "title": "Paid Time Off (PTO) Policy",
+  "section": "11. Frequently Asked Questions",
+  "section_number": "11",
+  "source_file": "POL-002-pto-policy.md",
+  "text": "Can I take PTO during my first 90 days? Yes, up to 3 days, with manager approval. More than 3 days requires HR approval as well.\n\nWhat happens if I am sick during approved PTO? If you are sick for 2 or more days during approved PTO, you may ask your manager to convert those days to sick leave. The PTO days are then restored to your balance.\n\nCan my manager require me to take PTO? Managers may encourage employees with balances near the cap to schedule time off, but may not require an employee to use PTO except during a company-wide closure announced at least 90 days in advance.\n\nWho do I contact if my balance looks wrong? Open an HR ticket in the \"Time Off\" category with the dates in question. People Operations will respond within 3 business days."
+ },
+ {
+  "chunk_id": "POL-003::1::0",
+  "doc_id": "POL-003",
+  "title": "Company Holiday Calendar 2026",
+  "section": "1. Overview",
+  "section_number": "1",
+  "source_file": "POL-003-holidays-2026.html",
+  "text": "Lumora observes paid company holidays based on each employee's registered work location (see Employment Classifications, POL-001, Section 7). Company holidays are paid days off and do not reduce an employee's PTO balance. Holidays do not need to be requested in PeopleHub. If a holiday falls during approved PTO, the holiday is not deducted from the PTO balance (see PTO Policy, POL-002, Section 8).\nFull-time and part-time employees receive holiday pay. Part-time employees receive holiday pay for holidays that fall on a regularly scheduled workday. Interns receive holiday pay for holidays that fall within their program dates. Contractors are not paid for company holidays unless their contract states otherwise."
+ },
+ {
+  "chunk_id": "POL-003::2::0",
+  "doc_id": "POL-003",
+  "title": "Company Holiday Calendar 2026",
+  "section": "2. United States Holidays (Atlanta, Austin, and US Remote)",
+  "section_number": "2",
+  "source_file": "POL-003-holidays-2026.html",
+  "text": "US-based employees, including fully remote employees whose registered work location is in the United States, observe the following holidays in 2026:\nHoliday | Date observed | Day\nNew Year's Day | January 1, 2026 | Thursday\nMartin Luther King Jr. Day | January 19, 2026 | Monday\nMemorial Day | May 25, 2026 | Monday\nJuneteenth | June 19, 2026 | Friday\nIndependence Day (observed) | July 3, 2026 | Friday\nLabor Day | September 7, 2026 | Monday\nThanksgiving Day | November 26, 2026 | Thursday\nDay after Thanksgiving | November 27, 2026 | Friday\nChristmas Eve | December 24, 2026 | Thursday\nChristmas Day | December 25, 2026 | Friday\nBecause Independence Day (July 4, 2026) falls on a Saturday, it is observed on Friday, July 3, 2026."
+ },
+ {
+  "chunk_id": "POL-003::3::0",
+  "doc_id": "POL-003",
+  "title": "Company Holiday Calendar 2026",
+  "section": "3. Canada Holidays (Toronto and Canada Remote)",
+  "section_number": "3",
+  "source_file": "POL-003-holidays-2026.html",
+  "text": "Employees whose registered work location is in Ontario, Canada observe the following holidays in 2026. Employees in other provinces follow the statutory holidays of their province; contact People Operations for the provincial supplement.\nHoliday | Date observed | Day\nNew Year's Day | January 1, 2026 | Thursday\nFamily Day | February 16, 2026 | Monday\nGood Friday | April 3, 2026 | Friday\nVictoria Day | May 18, 2026 | Monday\nCanada Day | July 1, 2026 | Wednesday\nCivic Holiday | August 3, 2026 | Monday\nLabour Day | September 7, 2026 | Monday\nNational Day for Truth and Reconciliation | September 30, 2026 | Wednesday\nThanksgiving Day | October 12, 2026 | Monday\nChristmas Day | December 25, 2026 | Friday\nBoxing Day (observed) | December 28, 2026 | Monday"
+ },
+ {
+  "chunk_id": "POL-003::4::0",
+  "doc_id": "POL-003",
+  "title": "Company Holiday Calendar 2026",
+  "section": "4. United Kingdom Holidays (London and UK Remote)",
+  "section_number": "4",
+  "source_file": "POL-003-holidays-2026.html",
+  "text": "Employees whose registered work location is in England observe the following bank holidays in 2026. Bank holidays are in addition to the employee's PTO entitlement.\nHoliday | Date observed | Day\nNew Year's Day | January 1, 2026 | Thursday\nGood Friday | April 3, 2026 | Friday\nEaster Monday | April 6, 2026 | Monday\nEarly May Bank Holiday | May 4, 2026 | Monday\nSpring Bank Holiday | May 25, 2026 | Monday\nSummer Bank Holiday | August 31, 2026 | Monday\nChristmas Day | December 25, 2026 | Friday\nBoxing Day (substitute day) | December 28, 2026 | Monday"
+ },
+ {
+  "chunk_id": "POL-003::5::0",
+  "doc_id": "POL-003",
+  "title": "Company Holiday Calendar 2026",
+  "section": "5. Floating Holidays",
+  "section_number": "5",
+  "source_file": "POL-003-holidays-2026.html",
+  "text": "In addition to the fixed holidays above, full-time employees in all countries receive 2 floating holidays per calendar year. Part-time employees with an FTE of 0.75 or higher receive 1 floating holiday. Interns and contractors do not receive floating holidays.\n- Floating holidays may be used for cultural or religious observances, personal milestones, or any other reason.\n- Floating holidays must be requested in PeopleHub with at least 5 business days of notice and require manager approval.\n- Floating holidays do not carry over. Unused floating holidays are forfeited on December 31 and are not paid out at separation.\n- Employees hired after September 30 receive 1 floating holiday for that calendar year."
+ },
+ {
+  "chunk_id": "POL-003::6::0",
+  "doc_id": "POL-003",
+  "title": "Company Holiday Calendar 2026",
+  "section": "6. Working on a Holiday",
+  "section_number": "6",
+  "source_file": "POL-003-holidays-2026.html",
+  "text": "Employees who are required to work on a company holiday (for example, as part of an on-call rotation) receive a substitute day off, which must be taken within 60 days. Non-exempt US employees who work on a holiday are also paid at 1.5 times their regular rate for hours worked. Canadian employees receive statutory holiday premium pay as required by provincial employment standards."
+ },
+ {
+  "chunk_id": "POL-003::7::0",
+  "doc_id": "POL-003",
+  "title": "Company Holiday Calendar 2026",
+  "section": "7. Holidays While Traveling or Working Abroad",
+  "section_number": "7",
+  "source_file": "POL-003-holidays-2026.html",
+  "text": "Employees who are temporarily working from another state or country under an approved arrangement (Remote Work Policy, POL-004; Work From Abroad and Cross-Border Policy, POL-005) observe the holiday calendar of their registered work location , not the local holidays of the place where they are temporarily working."
+ },
+ {
+  "chunk_id": "POL-003::8::0",
+  "doc_id": "POL-003",
+  "title": "Company Holiday Calendar 2026",
+  "section": "8. Year-End Recharge Week",
+  "section_number": "8",
+  "source_file": "POL-003-holidays-2026.html",
+  "text": "Lumora does not schedule a company-wide closure in 2026. Teams are encouraged to minimize meetings between December 28 and December 31, 2026, so that employees who choose to take PTO during that period can do so with less disruption. PTO taken during that period follows the standard PTO Policy (POL-002) and must be requested in advance."
+ },
+ {
+  "chunk_id": "POL-004::1::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "1. Purpose",
+  "section_number": "1",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Lumora supports flexible work where the role allows it. This policy describes the work arrangements available to employees, who is eligible, how temporary work from a different location within the employee's home country is handled, and the responsibilities that come with working outside a Lumora office. Working from a different country is covered by the Work From Abroad and Cross-Border Work Policy (POL-005). Security requirements for working remotely are in the Information Security Policy (POL-006)."
+ },
+ {
+  "chunk_id": "POL-004::2::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "2. Work Arrangements",
+  "section_number": "2",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Each employee has one of three work arrangements recorded in PeopleHub:\n\n- Office-based: The employee works from an assigned Lumora office at least 4 days per week.\n- Hybrid: The employee works from an assigned Lumora office on 2 anchor days per week set by their team (typically Tuesday and Wednesday) and may work from their registered home address on other days.\n- Remote: The employee works from their registered home address and is not expected to come into an office regularly. Remote employees may be asked to travel to an office or team gathering up to 4 times per year, with travel expenses reimbursed under POL-007.\n\nA work arrangement is agreed between the employee and their manager, approved by the department director, and recorded in PeopleHub. Changing a work arrangement requires a new approval."
+ },
+ {
+  "chunk_id": "POL-004::3.1::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "3.1 Role eligibility",
+  "section_number": "3.1",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Each role at Lumora is designated as either remote-eligible or office-required. Office-required roles include facilities, hardware lab, and certain IT support positions. Employees in office-required roles may work remotely only on an occasional basis (no more than 2 days per month) with manager approval."
+ },
+ {
+  "chunk_id": "POL-004::3.2::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "3.2 Employee eligibility",
+  "section_number": "3.2",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "To request a hybrid or remote arrangement, or to request temporary work from another location, an employee must:\n\n1. be a full-time or part-time employee (interns and contractors are not eligible; see POL-001);\n2. have completed the 90-day introductory period;\n3. not be on a formal performance improvement plan; and\n4. hold a remote-eligible role."
+ },
+ {
+  "chunk_id": "POL-004::4::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "4. Temporary Work From Another Location in Your Home Country",
+  "section_number": "4",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Employees sometimes want to work temporarily from somewhere other than their registered work location, such as a family home in another state or province. Because working in another state or province can create payroll tax, withholding, and employment law obligations, Lumora applies the following thresholds. Thresholds are counted in calendar days per calendar year, summed across all temporary locations outside the registered work location's state or province.\n\nTotal days per calendar year in another state/province | Approval required\nUp to 14 calendar days | Manager notification in PeopleHub (no approval needed)\n15 to 30 calendar days | Manager approval\n31 to 60 calendar days | Manager approval and People Operations + Payroll approval\nMore than 60 calendar days | Not permitted as temporary work. The employee must request a permanent change of work location.\n\nRequests that require People Operations and Payroll approval must be submitted at least 30 calendar days before the first day of temporary work, because Payroll may need to register in the new state and set up tax withholding. People Operations will respond within 10 business days."
+ },
+ {
+  "chunk_id": "POL-004::4.1::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "4.1 Permanent relocation within the home country",
+  "section_number": "4.1",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "An employee who wants to move permanently to a new state or province must submit a Work Location Change HR ticket at least 45 calendar days before the move. Lumora does not employ people in every state. The current list of states and provinces where Lumora can employ people is maintained by People Operations. Relocation may change the employee's pay zone, holiday calendar, and benefits options."
+ },
+ {
+  "chunk_id": "POL-004::5::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "5. Responsibilities When Working Remotely",
+  "section_number": "5",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Employees working remotely, on a hybrid basis, or from a temporary location must:\n\n- be reachable during their team's core collaboration hours (10:00 a.m. to 3:00 p.m. in the team's primary time zone);\n- maintain a safe, quiet workspace suitable for confidential conversations;\n- use only Lumora-issued devices for Company work and connect through the Company VPN when on any network other than a Lumora office network (see POL-006, Section 5);\n- never work from public locations on Restricted data (see POL-006, Section 3);\n- keep their PeopleHub address and emergency contact up to date;\n- report any work-related injury at home to People Operations within 24 hours."
+ },
+ {
+  "chunk_id": "POL-004::6::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "6. Home Office Setup",
+  "section_number": "6",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Remote and hybrid employees who meet the eligibility requirements in the Expense Reimbursement Policy (POL-007, Section 6) may claim a one-time home office stipend. Standard equipment such as laptops and monitors is issued by IT (see Equipment and IT Policy, POL-011) and is not purchased by the employee."
+ },
+ {
+  "chunk_id": "POL-004::7::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "7. Time Zones and Scheduling",
+  "section_number": "7",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Employees working temporarily in a different time zone must still meet core collaboration hours in their team's primary time zone unless their manager agrees to a different schedule in writing. Non-exempt employees must not work outside approved hours (see POL-001, Section 8)."
+ },
+ {
+  "chunk_id": "POL-004::8::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "8. Reviewing and Ending Arrangements",
+  "section_number": "8",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Managers may review work arrangements at any time and may end a hybrid or remote arrangement with at least 30 calendar days' written notice, or immediately where there is a security incident, a significant performance concern, or a change in role. Ending an arrangement must not be retaliatory or discriminatory."
+ },
+ {
+  "chunk_id": "POL-004::9::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "9. Coworking Spaces",
+  "section_number": "9",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Remote employees may use a coworking space up to the monthly limit in POL-007, Section 6.3, provided the space has a private room available for confidential calls. Coworking spaces count as public networks for security purposes, so the VPN is always required."
+ },
+ {
+  "chunk_id": "POL-004::10::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "10. How to Request",
+  "section_number": "10",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "1. Discuss the request with your manager.\n2. Submit the request in PeopleHub under Work Arrangements \u2192 Temporary Location (for Section 4) or Work Arrangements \u2192 Change Arrangement (for Section 2).\n3. If the request requires People Operations and Payroll approval, PeopleHub automatically opens an HR ticket in the \"Work Location\" category.\n4. Do not begin working from the new location until all required approvals are shown as complete in PeopleHub."
+ },
+ {
+  "chunk_id": "POL-004::11::0",
+  "doc_id": "POL-004",
+  "title": "Remote and Hybrid Work Policy",
+  "section": "11. Frequently Asked Questions",
+  "section_number": "11",
+  "source_file": "POL-004-remote-work-policy.md",
+  "text": "Can I work from my parents' house in another state for two weeks? Yes, if you are eligible under Section 3. Up to 14 calendar days per year only requires notifying your manager in PeopleHub.\n\nCan I work from another state for six weeks? Six weeks (42 calendar days) falls in the 31-to-60-day tier, so it requires manager approval and People Operations + Payroll approval, submitted at least 30 calendar days in advance.\n\nDoes this policy cover working from another country? No. Any work from outside your registered work location's country is governed by POL-005."
+ },
+ {
+  "chunk_id": "POL-005::1::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "1. Purpose",
+  "section_number": "1",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "Working from another country, even for a short time, can create obligations that most people do not expect: personal income tax in the other country, social security contributions, immigration and right-to-work requirements, data protection rules, and \"permanent establishment\" risk for the Company (where a country treats the Company as doing business there and taxes it accordingly). This policy creates a simple, safe path for short periods of work from abroad and explains when a full Global Mobility review is required.\n\nThis policy applies only to work performed from a country other than the country of the employee's registered work location. Temporary work from another state or province inside the home country is covered by the Remote and Hybrid Work Policy (POL-004, Section 4)."
+ },
+ {
+  "chunk_id": "POL-005::2::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "2. Definitions",
+  "section_number": "2",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "- Work From Abroad (WFA): A short, pre-approved period during which an employee works remotely from a country other than their registered work location country, while remaining employed and paid in their home country.\n- Workday abroad: Any business day on which the employee performs any work (including checking email or attending a meeting) while physically located outside their registered work location country. Weekends and company holidays of the registered work location do not count as workdays, unless the employee works on them.\n- Rolling 12 months: The 12-month period ending on the last day of the requested WFA period.\n- Global Mobility review: A formal assessment of tax, payroll, immigration, and legal requirements for longer or more complex cross-border work, conducted by the Global Mobility team with external advisors."
+ },
+ {
+  "chunk_id": "POL-005::3::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "3. Eligibility",
+  "section_number": "3",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "To use the WFA program, an employee must:\n\n1. be a full-time or part-time employee (interns and contractors are not eligible; see POL-001);\n2. have completed the 90-day introductory period;\n3. hold a remote-eligible role (POL-004, Section 3.1);\n4. be a citizen of, or already hold the legal right to work in, the destination country or be traveling to a country where Global Mobility has confirmed that short remote work is permitted for visitors of the employee's nationality; and\n5. not be traveling to a restricted country (Section 6)."
+ },
+ {
+  "chunk_id": "POL-005::4::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "4. Duration Limits",
+  "section_number": "4",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "Workdays abroad in a rolling 12 months | Program | Approval required\nUp to 20 workdays | Work From Abroad (WFA) | Manager + Global Mobility + Information Security\nMore than 20 workdays | Not permitted under WFA | Requires a Global Mobility review; may only proceed as a formal international assignment or a permanent relocation\n\nTwenty workdays is approximately four calendar weeks. A request for six weeks of work abroad (about 30 workdays) exceeds the WFA limit and cannot be approved under the WFA program. The employee may either (a) shorten the work period to 20 workdays or fewer, (b) combine a shorter work period with PTO, since days on approved PTO are not workdays, or (c) request a Global Mobility review by opening an HR ticket in the \"Global Mobility\" category. Global Mobility reviews typically take 6 to 8 weeks, and most requests for extended work abroad that are not tied to a business need are declined.\n\nA single WFA period may not exceed 20 workdays, and the total across all WFA periods in any rolling 12 months may not exceed 20 workdays."
+ },
+ {
+  "chunk_id": "POL-005::5::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "5. How to Request Work From Abroad",
+  "section_number": "5",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "1. Confirm eligibility under Section 3 and check that the destination is not restricted (Section 6).\n2. Discuss the dates with your manager.\n3. Submit a Work From Abroad request in PeopleHub at least 30 calendar days before departure. Include destination country, city, dates, and citizenship or visa status.\n4. Global Mobility reviews tax and immigration risk and responds within 10 business days.\n5. Information Security confirms device and access requirements (Section 7) and may issue a travel loaner device.\n6. Do not perform any work abroad until PeopleHub shows all three approvals as complete.\n\nEmployees who travel abroad on PTO and do no work at all do not need a WFA request, but must follow the device rules in Section 7 if they bring a Lumora device."
+ },
+ {
+  "chunk_id": "POL-005::6::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "6. Restricted Countries",
+  "section_number": "6",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "Work, including checking email, is not permitted from the following countries and regions under any circumstances, because of sanctions, export control, or data security risk: Cuba, Iran, North Korea, Syria, Russia, Belarus, and the Crimea, Donetsk, and Luhansk regions of Ukraine. Lumora devices must not be taken to these locations. Information Security may add other destinations to a \"high-risk\" list, for which a travel loaner device is mandatory."
+ },
+ {
+  "chunk_id": "POL-005::7::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "7. Security Requirements While Abroad",
+  "section_number": "7",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "While working abroad, employees must:\n\n- use only their Lumora-issued device or a travel loaner issued by IT;\n- connect through the Company VPN at all times;\n- not access Restricted data (POL-006, Section 3) from outside their home country unless Information Security has approved it in writing;\n- never leave devices unattended in hotel rooms, vehicles, or public places;\n- report a lost or stolen device to the IT Service Desk within 1 hour of discovery (POL-006, Section 9).\n\nAccess to some customer systems is blocked from outside the employee's home country by contractual requirements. Employees should confirm with their manager that they can do their full job from the destination before requesting WFA."
+ },
+ {
+  "chunk_id": "POL-005::8::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "8. Tax, Payroll, and Immigration",
+  "section_number": "8",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "During an approved WFA period, the employee remains on their home-country payroll. Lumora does not provide tax advice to employees about their personal tax obligations; employees should consult a personal tax advisor. Employees are responsible for having the correct passport, visa, and entry documents. Entering a country as a tourist and then working there can violate immigration law even if the work is for a foreign employer; Global Mobility will flag destinations where this is a concern."
+ },
+ {
+  "chunk_id": "POL-005::9::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "9. Work Hours and Holidays",
+  "section_number": "9",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "Employees must remain reachable during their team's core collaboration hours (POL-004, Section 5), which may mean working early or late in the destination time zone. The holiday calendar of the registered work location applies (POL-003, Section 7)."
+ },
+ {
+  "chunk_id": "POL-005::10::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "10. Expenses",
+  "section_number": "10",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "Lumora does not reimburse travel, accommodation, or living costs for personal WFA periods. WFA is a benefit of flexibility, not business travel. Business travel is governed by the Expense Reimbursement Policy (POL-007)."
+ },
+ {
+  "chunk_id": "POL-005::11::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "11. Non-Compliance",
+  "section_number": "11",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "Working abroad without approval, exceeding the approved dates, or working from a restricted country may result in loss of WFA eligibility, disciplinary action, and the employee being responsible for any resulting personal tax liabilities."
+ },
+ {
+  "chunk_id": "POL-005::12::0",
+  "doc_id": "POL-005",
+  "title": "Work From Abroad and Cross-Border Work Policy",
+  "section": "12. Frequently Asked Questions",
+  "section_number": "12",
+  "source_file": "POL-005-work-from-abroad.md",
+  "text": "I want to work from Portugal for six weeks this summer. Can I? Not under the WFA program. Six weeks is about 30 workdays, which exceeds the 20-workday limit. You could work from Portugal for up to 20 workdays and take PTO for the remainder, or request a Global Mobility review through an HR ticket at least 8 weeks in advance.\n\nDoes checking email on vacation count as a workday? Yes. Any work performed while abroad counts. If you are on PTO abroad, do not work.\n\nI am a Canadian citizen working for the Atlanta office. Can I work from Canada? Your citizenship may satisfy the right-to-work requirement, but tax and payroll obligations still apply. You must submit a WFA request; the 20-workday limit applies."
+ },
+ {
+  "chunk_id": "POL-006::1::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "1. Purpose and Scope",
+  "section_number": "1",
+  "source_file": "POL-006-information-security.md",
+  "text": "This policy protects Lumora's customers, employees, and business by setting minimum security requirements for everyone who uses Lumora systems or data. It applies to all employees, interns, and contractors, on every device and in every location, including offices, homes, coworking spaces, and while traveling. Violations may result in loss of access and disciplinary action up to and including termination of employment or contract."
+ },
+ {
+  "chunk_id": "POL-006::2::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "2. Security Responsibilities",
+  "section_number": "2",
+  "source_file": "POL-006-information-security.md",
+  "text": "Every worker is responsible for:\n\n- protecting their credentials and never sharing passwords, MFA codes, or access tokens;\n- handling data according to its classification (Section 3);\n- using only approved devices and software (Sections 4 and 7);\n- reporting security incidents promptly (Section 9);\n- completing annual security awareness training within 30 days of assignment. New hires complete training within their first 7 days (see Onboarding Guide, POL-010)."
+ },
+ {
+  "chunk_id": "POL-006::3::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "3. Data Classification",
+  "section_number": "3",
+  "source_file": "POL-006-information-security.md",
+  "text": "All Lumora information falls into one of four classes:\n\nClass | Examples | Handling rules\nPublic | Marketing website, published blog posts | No restrictions\nInternal | Org charts, internal wiki, most policies | Share only with Lumora workers\nConfidential | Product roadmaps, source code, financial forecasts, employee records | Share on a need-to-know basis; encrypt in transit; never post in public channels\nRestricted | Customer production data, payment data, health information, government IDs, security keys | Access only through approved systems; never download to local storage; never access from public locations or from outside the home country without written Information Security approval\n\nWhen in doubt, treat information as Confidential.\n\nEmployee personal data (compensation, performance, health, leave reasons, home addresses) is Confidential at minimum. Health and government ID information is Restricted. HR systems, including AI assistants that access HR data, must only display an employee's own records unless the user is authorized through PeopleHub roles."
+ },
+ {
+  "chunk_id": "POL-006::4::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "4. Devices",
+  "section_number": "4",
+  "source_file": "POL-006-information-security.md",
+  "text": "- Company work must be performed on Lumora-issued devices that are enrolled in device management. Personal computers may not be used for Company work.\n- Lumora-managed mobile phones or personal phones enrolled in the mobile management profile may be used for email, chat, and calendar only.\n- Full-disk encryption, automatic screen lock after 5 minutes, and automatic security updates must remain enabled. Users may not disable endpoint protection.\n- Devices must not be shared with family members or others.\n\nDevice issue, replacement, and return are covered in the Equipment and IT Policy (POL-011)."
+ },
+ {
+  "chunk_id": "POL-006::5::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "5. Network Access and Remote Work",
+  "section_number": "5",
+  "source_file": "POL-006-information-security.md",
+  "text": "- The Company VPN must be used on any network other than a Lumora office network, including home networks, coworking spaces, hotels, and airports.\n- Public Wi-Fi may be used only with the VPN connected. Restricted data may never be accessed from a public location, even with the VPN.\n- Home routers should use WPA2 or WPA3 encryption and a non-default administrator password.\n- When working abroad, the additional requirements in POL-005, Section 7 apply, and some systems are blocked from outside the home country."
+ },
+ {
+  "chunk_id": "POL-006::6::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "6. Authentication",
+  "section_number": "6",
+  "source_file": "POL-006-information-security.md",
+  "text": "Multi-factor authentication (MFA) is required for all Lumora systems. Hardware security keys are required for engineers with production access and for People Operations and Finance staff. Passwords must be at least 14 characters and must be stored in the Company password manager. Never approve an MFA prompt you did not initiate; report unexpected prompts as a security incident."
+ },
+ {
+  "chunk_id": "POL-006::7::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "7. Software and AI Tools",
+  "section_number": "7",
+  "source_file": "POL-006-information-security.md",
+  "text": "- Only software from the Lumora Software Catalog may be installed. Requests for new software go through the IT Service Desk and require a security review.\n- Generative AI tools: Only AI tools approved by Information Security may be used with Internal, Confidential, or Restricted data. Public consumer AI tools may be used only with Public data. Never paste source code, customer data, employee data, or credentials into an unapproved AI tool.\n- Browser extensions must be from the approved list."
+ },
+ {
+  "chunk_id": "POL-006::8::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "8. Email, Chat, and Phishing",
+  "section_number": "8",
+  "source_file": "POL-006-information-security.md",
+  "text": "Be suspicious of unexpected messages that ask you to log in, pay an invoice, buy gift cards, change payroll details, or share data. Report suspected phishing using the \"Report Phishing\" button. People Operations will never ask you to confirm your bank details or password by email or chat; payroll changes are made only inside PeopleHub."
+ },
+ {
+  "chunk_id": "POL-006::9::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "9. Incident Reporting",
+  "section_number": "9",
+  "source_file": "POL-006-information-security.md",
+  "text": "Report any of the following to the IT Service Desk or the #security-incidents channel within 1 hour of discovery:\n\n- a lost or stolen device or security key;\n- a suspected phishing compromise, or credentials entered on a suspicious site;\n- Confidential or Restricted data sent to the wrong person or posted publicly;\n- malware warnings or unusual device behavior.\n\nReporting quickly matters more than knowing whether something is really an incident. Employees who report in good faith will not be disciplined for the report itself."
+ },
+ {
+  "chunk_id": "POL-006::10::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "10. Clean Desk and Physical Security",
+  "section_number": "10",
+  "source_file": "POL-006-information-security.md",
+  "text": "Lock your screen whenever you step away. Do not leave printed Confidential or Restricted documents unattended, and use the secure shred bins in offices. Office badges must be visible and may not be shared. Visitors must be registered and escorted."
+ },
+ {
+  "chunk_id": "POL-006::11::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "11. Travel",
+  "section_number": "11",
+  "source_file": "POL-006-information-security.md",
+  "text": "- Travel to destinations on the high-risk list requires a travel loaner device from IT; personal and primary devices must stay home.\n- Travel to restricted countries with any Lumora device is prohibited (POL-005, Section 6).\n- Use a privacy screen when working in public places such as airplanes and trains."
+ },
+ {
+  "chunk_id": "POL-006::12::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "12. Monitoring",
+  "section_number": "12",
+  "source_file": "POL-006-information-security.md",
+  "text": "Lumora monitors its systems and networks for security purposes in accordance with applicable law. Workers should not expect privacy in their use of Lumora systems, except as required by law. Monitoring data is not used for productivity scoring."
+ },
+ {
+  "chunk_id": "POL-006::13::0",
+  "doc_id": "POL-006",
+  "title": "Information Security and Acceptable Use Policy",
+  "section": "13. Exceptions",
+  "section_number": "13",
+  "source_file": "POL-006-information-security.md",
+  "text": "Exceptions to this policy require written approval from Information Security, must be time-limited, and are recorded in the security exception register."
+ },
+ {
+  "chunk_id": "POL-007::1::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "1. Purpose",
+  "section_number": "1",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "This policy explains which business expenses Lumora reimburses, the limits that apply, how to submit claims, and the stipends available to eligible employees. The guiding principle is simple: spend Company money as carefully as you would spend your own, and only for legitimate business purposes."
+ },
+ {
+  "chunk_id": "POL-007::2::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "2. Who This Policy Covers",
+  "section_number": "2",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "This policy applies to all employees. Interns may be reimbursed for pre-approved business travel only. Contractors may be reimbursed only where their statement of work explicitly allows it, and then under the limits in this policy. Stipend eligibility is defined in Section 6 and in the Employment Classifications Policy (POL-001)."
+ },
+ {
+  "chunk_id": "POL-007::3::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "3. General Rules",
+  "section_number": "3",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "- Expenses must be necessary, reasonable, and directly related to Lumora business.\n- Claims must be submitted in the Expensify-style \"Lumora Expenses\" tool within 30 calendar days of the expense date. Claims submitted after 90 days will not be reimbursed.\n- An itemized receipt is required for every expense of $25 or more (or the local currency equivalent). Credit card statements are not receipts.\n- Expenses are approved by the employee's manager up to $5,000 per claim. Claims above $5,000 also require department director approval.\n- Employees may not approve their own expenses, split a purchase to stay under an approval limit, or claim an expense that was reimbursed by a third party.\n- Reimbursements are paid in the next payroll cycle after approval."
+ },
+ {
+  "chunk_id": "POL-007::4::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "4. Non-Reimbursable Expenses",
+  "section_number": "4",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "The following are never reimbursed:\n\n- personal computers, laptops, tablets, and phones (Lumora issues these through IT; see POL-011);\n- personal entertainment, including in-flight entertainment and hotel movies;\n- alcohol, except as part of approved client entertainment (Section 5.5);\n- traffic and parking fines, and penalties of any kind;\n- seat, class, or room upgrades that are not covered in Section 5;\n- personal grooming, clothing, and luggage;\n- gifts to colleagues, except through the recognition program;\n- travel, lodging, or living costs during personal Work From Abroad periods (POL-005, Section 10);\n- expenses of family members or guests."
+ },
+ {
+  "chunk_id": "POL-007::5.1::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "5.1 Approval and booking",
+  "section_number": "5.1",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "All business travel must be approved in advance by the employee's manager. International travel also requires department director approval. Flights and hotels must be booked through the Lumora Travel Portal so that the Company can locate travelers in an emergency."
+ },
+ {
+  "chunk_id": "POL-007::5.2::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "5.2 Air travel",
+  "section_number": "5.2",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "- Flights of 6 hours or less: economy class.\n- Flights over 6 hours: premium economy class is permitted.\n- Flights over 10 hours: business class is permitted with VP approval.\n- Book at least 14 days in advance where possible. Change fees caused by personal preference are not reimbursed."
+ },
+ {
+  "chunk_id": "POL-007::5.3::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "5.3 Lodging",
+  "section_number": "5.3",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Location | Nightly cap (before taxes)\nStandard US, Canada, and UK cities | $250\nHigh-cost cities: New York, San Francisco, Boston, Seattle, London, Zurich, Tokyo | $350\n\nRates above the cap require manager approval before booking, with a written reason (for example, a conference hotel block)."
+ },
+ {
+  "chunk_id": "POL-007::5.4::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "5.4 Meals and per diem",
+  "section_number": "5.4",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Meals during business travel are reimbursed at actual cost up to a daily limit of $75 for domestic travel and $100 for international travel. Meals provided by a conference or client do not count toward the limit but may not be claimed. Itemized receipts are required for meals of $25 or more."
+ },
+ {
+  "chunk_id": "POL-007::5.5::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "5.5 Client entertainment",
+  "section_number": "5.5",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Client meals and entertainment require manager pre-approval, a list of attendees and their companies, and a business purpose. The limit is $150 per person including alcohol. Alcohol may not exceed 30% of the total bill."
+ },
+ {
+  "chunk_id": "POL-007::5.6::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "5.6 Ground transportation and mileage",
+  "section_number": "5.6",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Taxis, ride-share, and public transit are reimbursed for business travel. Personal vehicle use for business is reimbursed at the IRS standard mileage rate (US), the CRA rate (Canada), or the HMRC rate (UK). Commuting between home and the employee's regular office is not reimbursable."
+ },
+ {
+  "chunk_id": "POL-007::6.1::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "6.1 One-time home office stipend",
+  "section_number": "6.1",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Eligible employees may claim up to $500 once (not once per year) for home office furniture and accessories.\n\nEligibility: full-time employees and part-time employees with an FTE of 0.75 or higher, who have a hybrid or remote work arrangement in PeopleHub (POL-004, Section 2). Office-based employees, part-time employees below 0.75 FTE, interns, and contractors are not eligible.\n\nTiming: the claim must be submitted within 12 months of the employee's start date or the date their hybrid or remote arrangement began, whichever is later.\n\nEligible items and sub-limits within the $500 stipend:\n\nItem | Maximum\nErgonomic office chair | $350\nDesk or standing desk | $300\nDesk lamp, keyboard, mouse, headset, webcam, cables | $150 combined\nFootrest, monitor arm, laptop stand | $100 combined\n\nNot covered by the stipend: laptops, tablets, phones, and monitors (IT provides one external monitor to hybrid and remote employees on request; see POL-011), printers, internet installation, decor, and general household furniture. Items purchased with the stipend belong to the employee."
+ },
+ {
+  "chunk_id": "POL-007::6.2::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "6.2 Internet allowance",
+  "section_number": "6.2",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Employees with a remote arrangement (not hybrid) receive an internet allowance of $50 per month, paid through payroll. No receipt is required, but the employee confirms annually that they maintain a reliable connection."
+ },
+ {
+  "chunk_id": "POL-007::6.3::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "6.3 Coworking allowance",
+  "section_number": "6.3",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Employees with a remote arrangement may claim coworking space costs up to $150 per month, with a receipt. Coworking spaces must offer a private room for confidential calls (POL-004, Section 9)."
+ },
+ {
+  "chunk_id": "POL-007::6.4::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "6.4 Learning budget",
+  "section_number": "6.4",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Full-time employees and part-time employees with an FTE of 0.75 or higher receive a $1,500 per calendar year learning budget for courses, books, certifications, and conference fees related to their current role or a role they are developing toward at Lumora. Conference travel funded from the learning budget follows the travel rules in Section 5. Unused learning budget does not carry over. Tuition reimbursement for degree programs is a separate benefit described in the Benefits Overview (POL-008)."
+ },
+ {
+  "chunk_id": "POL-007::7::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "7. Corporate Cards",
+  "section_number": "7",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Employees who travel more than four times per year may request a Lumora corporate card. Corporate cards are for business expenses only. Any personal charge must be reported within 5 business days and repaid in full."
+ },
+ {
+  "chunk_id": "POL-007::8::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "8. Submitting a Claim",
+  "section_number": "8",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "1. Open Lumora Expenses and select the correct category (Travel, Meals, Home Office Stipend, Learning, Client Entertainment, Other).\n2. Attach itemized receipts for every expense of $25 or more.\n3. Add a short business purpose, and for client entertainment, the attendees.\n4. Submit within 30 days. Your manager receives the claim automatically."
+ },
+ {
+  "chunk_id": "POL-007::9::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "9. Audits and Misuse",
+  "section_number": "9",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Finance audits a sample of claims each month. Submitting false or inflated claims is serious misconduct and may result in termination and repayment."
+ },
+ {
+  "chunk_id": "POL-007::10::0",
+  "doc_id": "POL-007",
+  "title": "Expense Reimbursement, Travel, and Stipends Policy",
+  "section": "10. Frequently Asked Questions",
+  "section_number": "10",
+  "source_file": "POL-007-expense-reimbursement.md",
+  "text": "Can I expense a new laptop because mine is slow? No. Laptops are never reimbursed. Request a replacement or upgrade from IT through the IT Service Desk (POL-011, Section 4).\n\nCan I expense a $400 office chair? If you are eligible for the home office stipend, up to $350 of the chair cost can be reimbursed from your $500 one-time stipend. The remaining $50 is not reimbursable.\n\nI am hybrid. Do I get the internet allowance? No. The internet allowance is only for employees with a remote arrangement. Hybrid employees are eligible for the one-time home office stipend."
+ },
+ {
+  "chunk_id": "POL-008::1::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "1. About This Overview",
+  "section_number": "1",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "This overview summarizes the benefits Lumora offers to employees in the United States for the 2026 plan year (January 1 to December 31, 2026). It is a summary only. If there is any difference between this overview and the official plan documents, the plan documents govern. Employees in Canada and the United Kingdom receive country-specific benefits described in local supplements; Section 9 gives a short summary."
+ },
+ {
+  "chunk_id": "POL-008::2::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "2. Eligibility",
+  "section_number": "2",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "Eligibility depends on employment classification (see Employment Classifications, POL-001):\n- Full-time employees are eligible for all benefits in this overview.\n- Part-time employees with an FTE of 0.75 or higher (30 or more scheduled hours per week) are eligible for medical, dental, vision, life insurance, the 401(k) plan, and the Employee Assistance Program. They are not eligible for tuition reimbursement.\n- Part-time employees with an FTE below 0.75 are eligible for the 401(k) plan and the Employee Assistance Program only.\n- Interns are eligible for the Employee Assistance Program only.\n- Contractors are not eligible for Lumora benefits but may use the Employee Assistance Program while actively engaged.\nEligible dependents include a legal spouse or registered domestic partner, and children up to age 26."
+ },
+ {
+  "chunk_id": "POL-008::3::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "3. When Coverage Starts and Ends",
+  "section_number": "3",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "Medical, dental, and vision coverage begins on the first day of the month following the employee's start date . An employee who starts on the first day of a month is covered from that day. New employees must enroll within 30 days of their start date; employees who do not enroll are automatically enrolled in employee-only coverage under the Basic PPO plan, with no dental or vision coverage.\nCoverage ends on the last day of the month in which employment ends or the employee becomes ineligible. Continuation coverage (COBRA) information is mailed within 14 days of the loss of coverage."
+ },
+ {
+  "chunk_id": "POL-008::4::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "4. Medical Plans",
+  "section_number": "4",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "Lumora offers three medical plans through a national carrier network:\nFeature | Basic PPO | Plus PPO | HDHP with HSA\nAnnual deductible (individual / family) | $1,500 / $3,000 | $500 / $1,000 | $1,700 / $3,400\nOut-of-pocket maximum (individual / family) | $5,000 / $10,000 | $3,000 / $6,000 | $4,000 / $8,000\nCoinsurance after deductible | 80% | 90% | 85%\nEmployee monthly premium (employee only) | $45 | $110 | $0\nEmployee monthly premium (family) | $310 | $520 | $190\nCompany HSA contribution (annual) | Not applicable | Not applicable | $750 individual / $1,500 family\nThe Company HSA contribution is deposited in equal amounts each pay period. Employees may contribute additional pre-tax amounts up to the IRS limit."
+ },
+ {
+  "chunk_id": "POL-008::5::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "5. Dental and Vision",
+  "section_number": "5",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "Dental coverage includes two preventive cleanings per year at no cost, 80% coverage for basic services, and 50% coverage for major services, with a $2,000 annual maximum per person. Orthodontia is covered at 50% for children up to age 19 with a $2,000 lifetime maximum.\nVision coverage includes an annual eye exam with a $10 copay and a $200 annual allowance for frames or contact lenses."
+ },
+ {
+  "chunk_id": "POL-008::6::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "6. Retirement: 401(k) Plan",
+  "section_number": "6",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "All US employees except interns are eligible to contribute to the Lumora 401(k) plan from their first paycheck. Lumora matches 100% of the first 4% of eligible pay that the employee contributes, plus 50% of the next 2% , for a maximum Company match of 5% of eligible pay . Company matching contributions vest immediately. New employees are automatically enrolled at a 4% contribution rate unless they opt out within 30 days."
+ },
+ {
+  "chunk_id": "POL-008::7.1::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "7.1 Life and disability insurance",
+  "section_number": "7.1",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "Basic life insurance of 2 times annual base salary (up to $500,000) is provided at no cost to full-time and benefits-eligible part-time employees. Short-term disability pays 60% of base salary after a 7-day waiting period for up to 12 weeks. Long-term disability pays 60% of base salary after 90 days. See the Leave of Absence Policy (POL-009) for how disability interacts with leave."
+ },
+ {
+  "chunk_id": "POL-008::7.2::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "7.2 Employee Assistance Program (EAP)",
+  "section_number": "7.2",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "The EAP offers free, confidential counseling (up to 8 sessions per issue per year), legal and financial consultations, and referrals. It is available 24/7 to all workers, including interns and contractors, and to members of their household."
+ },
+ {
+  "chunk_id": "POL-008::7.3::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "7.3 Wellness stipend",
+  "section_number": "7.3",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "Full-time employees receive a wellness stipend of $50 per month , paid through payroll, for gym memberships, fitness classes, meditation apps, or similar wellness expenses. No receipts are required."
+ },
+ {
+  "chunk_id": "POL-008::7.4::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "7.4 Tuition reimbursement",
+  "section_number": "7.4",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "Full-time employees with at least 6 months of tenure may receive tuition reimbursement of up to $5,250 per calendar year for accredited degree or certificate programs related to their current role or a future role at Lumora. Courses must be approved in advance by the employee's manager and People Operations, and the employee must earn a grade of B or better (or \"pass\" in pass/fail courses). Employees who leave Lumora voluntarily within 12 months of receiving reimbursement must repay it. Tuition reimbursement is separate from the $1,500 annual learning budget described in POL-007, Section 6.4."
+ },
+ {
+  "chunk_id": "POL-008::7.5::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "7.5 Commuter benefits",
+  "section_number": "7.5",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "Employees may set aside pre-tax money for transit and parking up to the IRS monthly limits."
+ },
+ {
+  "chunk_id": "POL-008::8::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "8. Changing Your Elections",
+  "section_number": "8",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "Benefit elections are made for the full plan year. Employees may change elections only during:\n- Open enrollment , held from November 2 to November 16, 2026 , for the 2027 plan year; or\n- within 30 days of a qualifying life event , such as marriage, divorce, birth or adoption of a child, death of a dependent, loss of other coverage, or a change in employment classification that affects eligibility.\nChanges are made in PeopleHub under Benefits \u2192 Life Events . Supporting documentation (such as a birth certificate or marriage certificate) must be uploaded within 30 days of the event. Requests made after 30 days will be considered only at the next open enrollment."
+ },
+ {
+  "chunk_id": "POL-008::9::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "9. Canada and United Kingdom (Summary)",
+  "section_number": "9",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "- Canada: Employees receive provincial-plan supplemental health and dental coverage starting on day one, a Group RRSP with a 4% Company match, and the same EAP and wellness stipend.\n- United Kingdom: Employees receive private medical insurance, a workplace pension with a 5% employer contribution, life assurance of 4 times salary, and the same EAP and wellness stipend.\nFor details, contact People Operations through an HR ticket in the \"Benefits\" category."
+ },
+ {
+  "chunk_id": "POL-008::10::0",
+  "doc_id": "POL-008",
+  "title": "Benefits Overview 2026",
+  "section": "10. Getting Help",
+  "section_number": "10",
+  "source_file": "POL-008-benefits-overview.html",
+  "text": "For questions about claims, contact the carrier listed on your insurance card. For eligibility, enrollment, or life event questions, open an HR ticket in the \"Benefits\" category; Total Rewards responds within 3 business days. During open enrollment, Total Rewards hosts daily office hours."
+ },
+ {
+  "chunk_id": "POL-009::1::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "1. Purpose",
+  "section_number": "1",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "This policy describes the types of leave available to Lumora employees other than paid time off (PTO) and company holidays. PTO is covered by the PTO Policy (POL-002) and holidays by the Holiday Calendar (POL-003). Where federal, state, provincial, or national law provides a greater entitlement than this policy, the law applies.\n\nLeave reasons, medical information, and supporting documents are handled as Restricted data (POL-006, Section 3) and are visible only to the Leave team in People Operations. Managers are told the dates of leave, not the reason, unless the employee chooses to share it."
+ },
+ {
+  "chunk_id": "POL-009::2.1::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "2.1 Entitlement",
+  "section_number": "2.1",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Classification | Sick leave per calendar year\nFull-time | 10 days\nPart-time | 10 days multiplied by FTE\nIntern | 5 days per program\nContractor | None (per contract)\n\nSick leave is granted in full on January 1 (or on the start date, prorated by month for new hires). Unused sick leave does not carry over and is not paid out at separation, except where local law requires."
+ },
+ {
+  "chunk_id": "POL-009::2.2::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "2.2 Using sick leave",
+  "section_number": "2.2",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Sick leave may be used for the employee's own illness, injury, medical appointments, or mental health, and to care for an ill family member. Employees should notify their manager as early as possible, ideally before the start of their workday, and record the absence in PeopleHub within 2 business days of returning. No doctor's note is required for absences of 3 consecutive workdays or fewer. Absences of more than 3 consecutive workdays require a note from a healthcare provider, uploaded to PeopleHub (it is visible only to the Leave team).\n\nIf sick leave is exhausted, employees may use PTO, and for longer illnesses should contact the Leave team about medical leave (Section 4)."
+ },
+ {
+  "chunk_id": "POL-009::3.1::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "3.1 Eligibility",
+  "section_number": "3.1",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Full-time and part-time employees who have completed 6 months of continuous service by the date of birth, adoption, or foster placement are eligible for paid parental leave. Interns and contractors are not eligible."
+ },
+ {
+  "chunk_id": "POL-009::3.2::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "3.2 Paid leave amounts",
+  "section_number": "3.2",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "- Birthing parent: up to 16 weeks of paid parental leave at 100% of base salary. This runs concurrently with any short-term disability benefit and any statutory leave.\n- Non-birthing parent (including adoptive and foster parents): up to 12 weeks of paid parental leave at 100% of base salary.\n\nPart-time employees receive leave pay based on their scheduled hours."
+ },
+ {
+  "chunk_id": "POL-009::3.3::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "3.3 Timing",
+  "section_number": "3.3",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Parental leave must begin within 12 months of the birth or placement. It may be taken in one continuous block or in up to two blocks of at least 2 weeks each. Employees should notify their manager and submit a leave request in PeopleHub at least 30 calendar days before the expected start, or as soon as possible if the timing is unforeseeable."
+ },
+ {
+  "chunk_id": "POL-009::3.4::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "3.4 Returning to work",
+  "section_number": "3.4",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Employees returning from parental leave may request a phased return of up to 4 weeks at 60% scheduled hours with full pay. Lumora provides private lactation rooms in all offices."
+ },
+ {
+  "chunk_id": "POL-009::4::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "4. Medical Leave and Disability",
+  "section_number": "4",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Employees who cannot work for more than 7 consecutive calendar days because of their own serious health condition should contact the Leave team to start a medical leave. Short-term disability (STD) pays 60% of base salary after a 7-day waiting period, for up to 12 weeks (see Benefits Overview, POL-008, Section 7.1). Employees may use sick leave or PTO during the waiting period and to supplement STD pay up to 100%.\n\nIn the United States, eligible employees may also be entitled to job-protected leave under the Family and Medical Leave Act (FMLA) and state leave laws. The Leave team determines eligibility and sends the required notices within 5 business days of the request."
+ },
+ {
+  "chunk_id": "POL-009::5::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "5. Family Care Leave",
+  "section_number": "5",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Employees with at least 6 months of service may take up to 4 weeks of paid family care leave per calendar year to care for a family member with a serious health condition. Additional unpaid leave may be available under FMLA or local law."
+ },
+ {
+  "chunk_id": "POL-009::6::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "6. Bereavement Leave",
+  "section_number": "6",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Relationship | Paid bereavement leave\nSpouse or partner, child, parent, sibling, or anyone living in the employee's household | 5 workdays\nGrandparent, grandchild, in-law, aunt, uncle, niece, nephew | 3 workdays\nPregnancy loss (employee or partner) | 5 workdays\n\nBereavement leave need not be taken consecutively but must be used within 3 months of the loss. Employees should tell their manager and record the leave in PeopleHub. No documentation is required."
+ },
+ {
+  "chunk_id": "POL-009::7::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "7. Jury Duty and Witness Leave",
+  "section_number": "7",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Employees summoned for jury duty or subpoenaed as a witness receive their regular pay for up to 10 workdays per year. Employees must provide a copy of the summons to their manager and record the leave in PeopleHub. Any jury fees received may be kept by the employee."
+ },
+ {
+  "chunk_id": "POL-009::8::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "8. Voting and Civic Leave",
+  "section_number": "8",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "US employees may take up to 2 hours of paid time to vote in a public election if their schedule does not allow them to vote outside working hours. Employees who volunteer as election poll workers may take up to 1 paid day per election."
+ },
+ {
+  "chunk_id": "POL-009::9::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "9. Military Leave",
+  "section_number": "9",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Employees who serve in the uniformed services receive job-protected leave in accordance with USERRA (US) or applicable reservist legislation (Canada, UK). Lumora pays the difference between military pay and the employee's base salary for up to 30 days per year."
+ },
+ {
+  "chunk_id": "POL-009::10::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "10. Personal Unpaid Leave",
+  "section_number": "10",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Employees with at least 1 year of service may request up to 8 weeks of unpaid personal leave once every 3 years for reasons such as travel, education, or personal matters. Requests require manager and department director approval and should be submitted at least 60 days in advance. Benefits continue during unpaid personal leave, but the employee must pay their share of premiums. PTO does not accrue during unpaid leave."
+ },
+ {
+  "chunk_id": "POL-009::11::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "11. How to Request Leave",
+  "section_number": "11",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "1. For planned leave (parental, personal), discuss timing with your manager.\n2. Submit a leave request in PeopleHub under Time Off \u2192 Leave of Absence. This opens a case with the Leave team.\n3. Upload any required documents. Medical information goes only to the Leave team.\n4. The Leave team confirms the leave type, pay, and dates in writing within 5 business days."
+ },
+ {
+  "chunk_id": "POL-009::12::0",
+  "doc_id": "POL-009",
+  "title": "Leave of Absence Policy",
+  "section": "12. Protection From Retaliation",
+  "section_number": "12",
+  "source_file": "POL-009-leave-of-absence.md",
+  "text": "Lumora prohibits retaliation against any employee for requesting or taking leave. Concerns about retaliation should be raised under the Workplace Conduct Policy (POL-012) or directly with People Operations."
+ },
+ {
+  "chunk_id": "POL-010::1::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "1. Welcome and Purpose",
+  "section_number": "1",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "Welcome to Lumora. This guide explains what happens during your first 90 days, what you need to complete and by when, and who to contact for help. Your manager, your onboarding buddy, and People Operations share responsibility for making your start smooth. Your first 90 days are your introductory period (see Employment Classifications, POL-001, Section 5)."
+ },
+ {
+  "chunk_id": "POL-010::2::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "2. Before Your First Day",
+  "section_number": "2",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "People Operations and IT complete the following before you start:\n\n- Your PeopleHub account is created and you receive an invitation to your personal email 5 business days before your start date.\n- You complete the I-9 (US), right-to-work check (UK), or equivalent identity verification in PeopleHub before your first day. Bring the original documents on day one.\n- IT ships your laptop to remote employees so that it arrives at least 2 business days before the start date. Office-based and hybrid employees collect their laptop at the office on day one (see Equipment and IT Policy, POL-011).\n- Your manager assigns an onboarding buddy from your team."
+ },
+ {
+  "chunk_id": "POL-010::3::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "3. Day One Checklist",
+  "section_number": "3",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "On your first day you should:\n\n1. Sign in to your laptop and enroll in multi-factor authentication (POL-006, Section 6).\n2. Set up the Company password manager and the VPN.\n3. Review and sign the Information Security and Acceptable Use Policy and the Workplace Conduct Policy in PeopleHub.\n4. Confirm your bank details, tax withholding, and emergency contact in PeopleHub. Never send bank details by email.\n5. Attend the New Hire Welcome session (Mondays at 10:00 a.m. Eastern for US and Canada, 10:00 a.m. UK time for the UK).\n6. Meet your manager and onboarding buddy."
+ },
+ {
+  "chunk_id": "POL-010::4::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "4. First Week Checklist",
+  "section_number": "4",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "During your first week you should:\n\n- complete Security Awareness training (required within 7 days of your start date);\n- complete Workplace Conduct and Anti-Harassment training (required within 14 days; managers have additional manager training within 30 days);\n- enroll in benefits in PeopleHub (you have 30 days from your start date; see Benefits Overview, POL-008, Section 3);\n- review your 401(k) auto-enrollment and change your contribution rate if you wish;\n- read the PTO Policy (POL-002) and add company holidays for your location (POL-003) to your calendar;\n- agree on your 30-60-90 day goals with your manager;\n- request any additional equipment, such as an external monitor for hybrid and remote employees, through the IT Service Desk (POL-011)."
+ },
+ {
+  "chunk_id": "POL-010::5::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "5. First 30 Days",
+  "section_number": "5",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "By day 30:\n\n- Your manager holds a 30-day check-in to review progress against goals and answer questions.\n- You complete role-specific training assigned in the Learning portal.\n- Remote and hybrid employees may submit their home office stipend claim at any time within 12 months (POL-007, Section 6.1).\n- You should have met with key partners outside your immediate team, as listed in your onboarding plan."
+ },
+ {
+  "chunk_id": "POL-010::6::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "6. Days 31 to 60",
+  "section_number": "6",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "By day 60:\n\n- Your manager holds a 60-day check-in.\n- You take ownership of at least one deliverable or project area.\n- You complete any remaining compliance training, such as data privacy training for roles that handle customer data."
+ },
+ {
+  "chunk_id": "POL-010::7::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "7. Days 61 to 90",
+  "section_number": "7",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "By day 90:\n\n- Your manager holds a 90-day review and confirms completion of the introductory period in PeopleHub.\n- After the introductory period, you become eligible to request a hybrid or remote arrangement change, temporary work from another location (POL-004), and Work From Abroad (POL-005), and to use more than 3 days of PTO without HR approval (POL-002, Section 2)."
+ },
+ {
+  "chunk_id": "POL-010::8::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "8. Manager Responsibilities",
+  "section_number": "8",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "Managers must:\n\n- prepare an onboarding plan and share it with the new hire on day one;\n- assign an onboarding buddy;\n- hold 30-, 60-, and 90-day check-ins and record them in PeopleHub;\n- ensure required training is completed on time;\n- raise concerns about fit or performance with People Operations before day 75 so there is time to address them."
+ },
+ {
+  "chunk_id": "POL-010::9::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "9. Onboarding Buddy Role",
+  "section_number": "9",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "The onboarding buddy is a peer, not a manager. The buddy meets the new hire at least weekly for the first 4 weeks, answers questions about tools and team norms, and introduces the new hire to colleagues. Buddies are recognized through the recognition program."
+ },
+ {
+  "chunk_id": "POL-010::10::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "10. Interns",
+  "section_number": "10",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "Interns follow a shortened program run by University Programs: day-one setup, Security Awareness training within 7 days, a mid-program review, and an end-of-program presentation. Interns do not enroll in benefits other than the EAP."
+ },
+ {
+  "chunk_id": "POL-010::11::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "11. Contractors",
+  "section_number": "11",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "Contractors complete Security Awareness training and sign the Information Security and Acceptable Use Policy before receiving system access. Their onboarding is coordinated by Vendor Management and their Lumora sponsor."
+ },
+ {
+  "chunk_id": "POL-010::12::0",
+  "doc_id": "POL-010",
+  "title": "New Employee Onboarding Guide",
+  "section": "12. Help and Contacts",
+  "section_number": "12",
+  "source_file": "POL-010-onboarding-guide.txt",
+  "text": "- PeopleHub, payroll, benefits, and policy questions: open an HR ticket.\n- Laptop, accounts, and access: IT Service Desk.\n- Facilities and badges: the Workplace team at your office.\n- Concerns about conduct or safety: see the Workplace Conduct Policy (POL-012) and HR Case Handling Procedure (POL-013)."
+ },
+ {
+  "chunk_id": "POL-011::1::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "1. Purpose",
+  "section_number": "1",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "This policy explains what equipment Lumora provides, how to request and replace it, how to look after it, and what to do when you leave. All equipment described here remains Lumora property unless stated otherwise. Security requirements for using devices are in the Information Security and Acceptable Use Policy (POL-006)."
+ },
+ {
+  "chunk_id": "POL-011::2::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "2. Standard Equipment",
+  "section_number": "2",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "Every employee and intern receives:\n\n- one laptop: a 14-inch MacBook Pro or a ThinkPad X1 Carbon, depending on role. Engineers and designers may request a 16-inch model with manager approval;\n- a laptop charger and a USB-C hub;\n- a hardware security key (two for engineers with production access);\n- a headset with microphone.\n\nHybrid and remote employees may also request, through the IT Service Desk:\n\n- one 27-inch external monitor, shipped to their registered home address;\n- a full-size keyboard and mouse.\n\nOffice-based employees have monitors, docks, keyboards, and mice at their desks or in hot-desk areas.\n\nContractors receive equipment only when their statement of work requires it; otherwise they must use a Lumora-managed virtual desktop."
+ },
+ {
+  "chunk_id": "POL-011::3::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "3. Requesting Equipment",
+  "section_number": "3",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "Submit all equipment requests through the IT Service Desk portal. Standard requests are fulfilled within 5 business days in the US and within 10 business days in Canada and the UK. Non-standard equipment (for example, a second monitor, specialized input devices, or a high-performance workstation) requires manager approval and a business justification.\n\nEmployees must not purchase laptops, monitors, tablets, or phones themselves and claim reimbursement. These items are not reimbursable under the Expense Reimbursement Policy (POL-007, Section 4) and are not covered by the home office stipend (POL-007, Section 6.1)."
+ },
+ {
+  "chunk_id": "POL-011::4::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "4. Replacement and Upgrades",
+  "section_number": "4",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "- Laptops are replaced on a 3-year refresh cycle. IT contacts you when your laptop is eligible.\n- If your laptop is damaged, malfunctioning, or too slow for your work before the refresh date, open an IT Service Desk ticket. IT will repair, upgrade, or replace it at no cost to you.\n- Accidental damage is repaired at no cost. Repeated damage caused by negligence may require manager review."
+ },
+ {
+  "chunk_id": "POL-011::5::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "5. Accessibility and Ergonomic Equipment",
+  "section_number": "5",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "Employees who need equipment as a workplace accommodation (for example, a specialized keyboard, screen reader software, or an adjustable desk in the office) should contact People Operations through an HR ticket in the \"Accommodations\" category. Accommodation equipment is provided at no cost and does not use the home office stipend. Medical details are shared only with the Accommodations team."
+ },
+ {
+  "chunk_id": "POL-011::6::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "6. Software and Accounts",
+  "section_number": "6",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "Standard accounts are created before your start date. Additional software must come from the Lumora Software Catalog (POL-006, Section 7). Access to systems containing Confidential or Restricted data requires manager approval through an access request and is reviewed every quarter."
+ },
+ {
+  "chunk_id": "POL-011::7::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "7. Care of Equipment",
+  "section_number": "7",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "- Keep devices with you or locked away. Do not leave them visible in a parked car.\n- Use the provided cases when traveling.\n- Do not modify hardware, remove asset tags, or install unapproved operating systems.\n- Keep your laptop online at least once every 7 days so that it receives security updates."
+ },
+ {
+  "chunk_id": "POL-011::8::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "8. Lost or Stolen Equipment",
+  "section_number": "8",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "Report lost or stolen equipment to the IT Service Desk within 1 hour of discovering the loss (POL-006, Section 9). IT will lock and wipe the device remotely. If the device was stolen, file a police report and give IT the report number. You will not be charged for a lost or stolen device that you report promptly."
+ },
+ {
+  "chunk_id": "POL-011::9::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "9. Personal Use",
+  "section_number": "9",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "Limited, reasonable personal use of Lumora equipment (for example, reading the news during a break) is permitted, provided it does not interfere with work, violate POL-006, or involve illegal or offensive content. Do not store personal files you would not want to lose; devices may be wiped at any time."
+ },
+ {
+  "chunk_id": "POL-011::10::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "10. Returning Equipment",
+  "section_number": "10",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "When you leave Lumora, or when a device is replaced, you must return all equipment within 10 calendar days. IT sends a prepaid return kit to remote employees. Office-based employees return equipment to the Workplace team on their last day. Unreturned equipment may be charged at its depreciated value where permitted by law. Items bought with the home office stipend belong to you and do not need to be returned."
+ },
+ {
+  "chunk_id": "POL-011::11::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "11. Travel Loaner Devices",
+  "section_number": "11",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "IT provides travel loaner laptops and phones for travel to high-risk destinations (POL-006, Section 11). Request a loaner at least 10 business days before departure. Loaners are wiped on return."
+ },
+ {
+  "chunk_id": "POL-011::12::0",
+  "doc_id": "POL-011",
+  "title": "Equipment and IT Services Policy",
+  "section": "12. Getting Help",
+  "section_number": "12",
+  "source_file": "POL-011-equipment-and-it.txt",
+  "text": "The IT Service Desk is available 24/7 through the portal, by chat in #it-help, and by phone for urgent issues such as lost devices or account lockouts. Typical response times: urgent issues within 1 hour, standard issues within 1 business day."
+ },
+ {
+  "chunk_id": "POL-012::1::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "1. Our Commitment",
+  "section_number": "1",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Lumora is committed to a workplace where everyone is treated with dignity and respect. We do not tolerate harassment, discrimination, bullying, or retaliation of any kind. This policy applies to all employees, interns, and contractors, and to conduct with customers, vendors, and visitors. It covers behavior in offices, remote meetings, chat and email, Company events, business travel, and social media where the conduct affects the workplace."
+ },
+ {
+  "chunk_id": "POL-012::2::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "2. Expected Conduct",
+  "section_number": "2",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Everyone at Lumora is expected to:\n- treat colleagues, customers, and partners with respect and courtesy;\n- communicate professionally in all channels, including chat and video calls;\n- avoid conflicts of interest and disclose any potential conflict to their manager and Legal;\n- protect Company and customer information (see POL-006);\n- comply with all laws and Company policies;\n- speak up when they see behavior that violates this policy."
+ },
+ {
+  "chunk_id": "POL-012::3.1::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "3.1 Discrimination",
+  "section_number": "3.1",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Lumora prohibits discrimination based on race, color, religion, sex, pregnancy, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, veteran or military status, or any other characteristic protected by law. This applies to hiring, pay, promotion, assignments, discipline, termination, and all other terms of employment."
+ },
+ {
+  "chunk_id": "POL-012::3.2::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "3.2 Harassment",
+  "section_number": "3.2",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Harassment is unwelcome conduct related to a protected characteristic that creates an intimidating, hostile, or offensive environment, or where submission to the conduct is made a condition of employment. Examples include slurs, offensive jokes, threats, intimidation, unwelcome physical contact, and displaying offensive images."
+ },
+ {
+  "chunk_id": "POL-012::3.3::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "3.3 Sexual harassment",
+  "section_number": "3.3",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Sexual harassment includes unwelcome sexual advances, requests for sexual favors, and other verbal, written, or physical conduct of a sexual nature. It can occur between people of any gender and regardless of seniority."
+ },
+ {
+  "chunk_id": "POL-012::3.4::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "3.4 Bullying",
+  "section_number": "3.4",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Bullying is repeated, unreasonable behavior directed at a person that creates a risk to health and safety, such as persistent belittling, exclusion, or public humiliation. Reasonable management actions, such as giving performance feedback in a respectful manner, are not bullying."
+ },
+ {
+  "chunk_id": "POL-012::3.5::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "3.5 Workplace violence",
+  "section_number": "3.5",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Threats of violence, violent acts, and possession of weapons on Company premises or at Company events are prohibited. In an emergency or immediate danger, call local emergency services first (911 in the US and Canada, 999 in the UK), then notify Security."
+ },
+ {
+  "chunk_id": "POL-012::3.6::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "3.6 Retaliation",
+  "section_number": "3.6",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Retaliation against anyone who reports a concern in good faith, participates in an investigation, or requests an accommodation or leave is strictly prohibited and is itself a serious violation of this policy, regardless of the outcome of the original report."
+ },
+ {
+  "chunk_id": "POL-012::4::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "4. How to Report a Concern",
+  "section_number": "4",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Employees can report concerns through any of these channels. You do not have to report to your manager first, and you should not report to anyone involved in the concern.\n- Your manager or any other manager you trust.\n- People Operations, through an HR ticket in the \"Employee Relations\" category. These tickets are visible only to the Employee Relations team.\n- The confidential Ethics Hotline , available 24/7 by phone and web, which accepts anonymous reports where local law allows.\n- Legal, for concerns involving fraud, bribery, or legal compliance.\nManagers who receive a report must forward it to Employee Relations within 1 business day, even if the employee asks them to keep it confidential. Managers must not investigate on their own.\nAutomated tools, including the HR assistant, can explain this policy and help an employee open an Employee Relations case, but cannot investigate, make findings, or advise on the merits of a specific complaint."
+ },
+ {
+  "chunk_id": "POL-012::5::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "5. Investigation Process",
+  "section_number": "5",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "- Employee Relations acknowledges the report within 1 business day .\n- An investigator is assigned and begins the investigation within 5 business days . Investigators are trained and have no reporting relationship with the people involved.\n- Interim measures may be put in place to protect the people involved, such as schedule changes or a temporary change of reporting line. Interim measures must not disadvantage the person who reported.\n- The investigator interviews the people involved and witnesses and reviews relevant documents.\n- Most investigations are completed within 30 calendar days . The reporting employee and the respondent are told when the investigation is complete and, where appropriate, whether the policy was found to be violated.\nInformation is shared only with those who need it to investigate and act. Confidentiality is maintained to the extent possible, but complete anonymity cannot always be guaranteed."
+ },
+ {
+  "chunk_id": "POL-012::6::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "6. Consequences",
+  "section_number": "6",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Violations may lead to corrective action, including training, a written warning, removal of management responsibilities, or termination of employment or contract. Knowingly making a false report is also a violation, but a good-faith report that is not substantiated is never a violation."
+ },
+ {
+  "chunk_id": "POL-012::7::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "7. Relationships at Work",
+  "section_number": "7",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Romantic or sexual relationships between a manager and anyone in their reporting chain are prohibited. Other workplace relationships must be disclosed to People Operations if they could create a conflict of interest."
+ },
+ {
+  "chunk_id": "POL-012::8::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "8. Support",
+  "section_number": "8",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "Anyone affected by a workplace conduct issue may use the Employee Assistance Program (see POL-008, Section 7.2) for free, confidential counseling."
+ },
+ {
+  "chunk_id": "POL-012::9::0",
+  "doc_id": "POL-012",
+  "title": "Workplace Conduct and Anti-Harassment Policy",
+  "section": "9. Training",
+  "section_number": "9",
+  "source_file": "POL-012-workplace-conduct.html",
+  "text": "All employees complete Workplace Conduct and Anti-Harassment training within 14 days of hire and every year after. Managers complete additional training within 30 days of becoming a manager."
+ },
+ {
+  "chunk_id": "POL-013::1::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "1. Purpose",
+  "section_number": "1",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "This procedure explains how employees raise questions and requests with People Operations, how HR tickets are categorized and prioritized, what response times to expect, and when a matter is escalated. It also sets rules for automated assistants, such as the Lumora HR Assistant, that help employees find answers and open tickets."
+ },
+ {
+  "chunk_id": "POL-013::2::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "2. Self-Service First",
+  "section_number": "2",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "Many questions can be answered from the policy library and PeopleHub. Employees should check:\n\n- PeopleHub for their own PTO balance, benefits elections, pay statements, and work arrangement;\n- the policy library for rules and eligibility;\n- the HR Assistant, which answers policy questions with citations to the policy library and can look up the employee's own records.\n\nWhen self-service does not resolve the question, employees should open an HR ticket."
+ },
+ {
+  "chunk_id": "POL-013::3::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "3. Ticket Categories",
+  "section_number": "3",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "Category | Typical topics | Handled by\nTime Off | PTO balance errors, short-notice requests, blackout disputes | People Operations\nBenefits | Enrollment, life events, coverage questions | Total Rewards\nLeave | Parental, medical, family care, personal leave | Leave team\nWork Location | Temporary work in another state, relocation | People Operations + Payroll\nGlobal Mobility | Work from abroad reviews, international assignments | Global Mobility\nPayroll | Pay errors, tax withholding | Payroll\nExpenses | Claim disputes, stipend eligibility | Finance\nEmployment Records | Classification, title, manager changes | People Operations\nAccommodations | Workplace accommodations | Accommodations team\nEmployee Relations | Harassment, discrimination, retaliation, bullying, conflicts | Employee Relations (restricted)"
+ },
+ {
+  "chunk_id": "POL-013::4::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "4. Priority and Response Times",
+  "section_number": "4",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "Priority | Examples | First response | Target resolution\nP1 \u2013 Urgent | Safety concerns, harassment or discrimination reports, retaliation, threats | 1 business day | Investigation starts within 5 business days\nP2 \u2013 High | Pay errors, missing benefits coverage, leave starting within 10 days, Global Mobility requests with travel within 30 days | 2 business days | 5 business days\nP3 \u2013 Standard | Policy clarifications, balance corrections, eligibility questions | 3 business days | 10 business days\nP4 \u2013 Low | Information requests, document copies | 5 business days | 15 business days\n\nAny ticket in the Employee Relations category is automatically P1."
+ },
+ {
+  "chunk_id": "POL-013::5::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "5. When to Escalate",
+  "section_number": "5",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "A request must be escalated to a human People Operations partner, rather than answered from policy alone, when:\n\n1. it involves possible harassment, discrimination, bullying, retaliation, violence, or a safety risk;\n2. the employee describes a medical condition, disability, or accommodation need;\n3. the answer depends on a judgment about a specific person's conduct or performance;\n4. the policy is silent or ambiguous for the employee's situation, or two policies appear to conflict;\n5. the employee disputes a decision already made by their manager or People Operations;\n6. the request involves pay corrections, legal matters, immigration, or tax advice;\n7. the employee asks for an exception to a policy.\n\nIf anyone is in immediate danger, the employee should contact local emergency services first."
+ },
+ {
+  "chunk_id": "POL-013::6::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "6. Rules for Automated Assistants",
+  "section_number": "6",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "The Lumora HR Assistant and any other automated tool used by People Operations must:\n\n- answer policy questions only from the official policy library and cite the document ID and section for each policy fact;\n- clearly separate policy facts from recommendations or next steps;\n- say when the policy library does not cover a question, rather than guessing, and suggest opening a ticket;\n- show employees only their own records;\n- never submit, approve, or change a PeopleHub request, and never create a ticket or send a message on the employee's behalf without the employee's explicit confirmation;\n- never investigate, make findings about, or give opinions on the merits of an Employee Relations matter; instead, explain the reporting channels and offer to open a confidential Employee Relations case;\n- never give personal tax, legal, immigration, or medical advice."
+ },
+ {
+  "chunk_id": "POL-013::7::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "7. What a Good Ticket Includes",
+  "section_number": "7",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "To help People Operations resolve a ticket quickly, include:\n\n- your employee ID;\n- the category;\n- a short summary of the request and the relevant dates;\n- the policy sections you have already reviewed;\n- any documents (upload them in the ticket, not by email).\n\nDo not include medical details in a ticket unless it is a Leave or Accommodations ticket, which are restricted to the relevant team."
+ },
+ {
+  "chunk_id": "POL-013::8::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "8. Escalation Path for Delays",
+  "section_number": "8",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "If a ticket misses its first-response time, the employee may reply to the ticket requesting escalation. It is then routed to the team lead. If a P1 or P2 ticket is still unanswered after a further business day, it is routed to the Head of People Operations."
+ },
+ {
+  "chunk_id": "POL-013::9::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "9. Closing Tickets",
+  "section_number": "9",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "Tickets are closed when the employee confirms the issue is resolved, or automatically 5 business days after People Operations provides a resolution with no reply. Employees can reopen a ticket within 30 days. Employee Relations cases are closed only by the investigator."
+ },
+ {
+  "chunk_id": "POL-013::10::0",
+  "doc_id": "POL-013",
+  "title": "HR Case Handling and Escalation Procedure",
+  "section": "10. Records and Privacy",
+  "section_number": "10",
+  "source_file": "POL-013-hr-case-handling.md",
+  "text": "Ticket records are retained for 7 years. Employee Relations, Leave, and Accommodations records are restricted to their teams and treated as Restricted data (POL-006, Section 3)."
+ },
+ {
+  "chunk_id": "POL-014::1::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "1. Purpose",
+  "section_number": "1",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "This policy explains how and when Lumora pays employees, how compensation is reviewed, how hours are recorded, and how employees can correct a pay problem. It applies to all employees in the United States, Canada, and the United Kingdom. Contractors are paid through Vendor Management according to their contracts and are not covered by this policy."
+ },
+ {
+  "chunk_id": "POL-014::2::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "2. Pay Schedule",
+  "section_number": "2",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "US and Canadian employees are paid semi-monthly, on the 15th and the last day of each month, for a total of 24 pay periods per year. UK employees are paid monthly on the last business day of the month. When a payday falls on a weekend or a company holiday, employees are paid on the preceding business day. Pay statements are available in PeopleHub on payday."
+ },
+ {
+  "chunk_id": "POL-014::3::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "3. Direct Deposit and Bank Details",
+  "section_number": "3",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "All pay is made by direct deposit. Employees enter and change bank details only inside PeopleHub, protected by multi-factor authentication. Changes made at least 5 business days before payday apply to that payday. Payroll and People Operations will never ask for bank details by email, chat, or phone; such requests are phishing and must be reported (see POL-006, Section 8)."
+ },
+ {
+  "chunk_id": "POL-014::4::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "4. Compensation Structure",
+  "section_number": "4",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "Each role at Lumora is assigned a job level and a salary range. Salary ranges are set by pay zone. Pay zones are based on the employee's registered work location (see POL-001, Section 7): Zone A: San Francisco, New York, Seattle, Boston, London Zone B: Atlanta, Austin, Toronto, and other large metropolitan areas Zone C: all other locations in the United States and Canada Moving permanently to a location in a different pay zone may change the employee's salary range. Temporary work from another location under POL-004 or POL-005 does not change pay."
+ },
+ {
+  "chunk_id": "POL-014::5::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "5. Annual Compensation Review",
+  "section_number": "5",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "Lumora conducts one compensation review each year. Merit increases and promotions resulting from the review take effect on April 1. To be eligible for a merit increase, an employee must have started before October 1 of the prior year and not be on a performance improvement plan. Off-cycle promotions may be approved by a department director and People Operations when there is a significant change in responsibilities."
+ },
+ {
+  "chunk_id": "POL-014::6::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "6. Bonuses and Equity",
+  "section_number": "6",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "Employees in eligible roles participate in an annual bonus plan with a target expressed as a percentage of base salary. Bonuses are paid in March for the prior year and require the employee to be employed on the payment date. Sales roles participate in a separate commission plan. Equity grants are governed by the equity plan documents and individual grant agreements, which take precedence over this policy."
+ },
+ {
+  "chunk_id": "POL-014::7::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "7. Recording Time",
+  "section_number": "7",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "Non-exempt US employees and hourly employees in Canada and the UK must record all hours worked in PeopleHub each day, including any time spent checking email or messages outside scheduled hours. Timesheets are submitted weekly, by Monday at 12:00 noon local time for the previous week, and approved by the manager by Tuesday at 5:00 p.m. Working \"off the clock\" is prohibited, and managers may not ask employees to do so. Exempt employees record only time off (PTO, sick leave, and other leave) in PeopleHub."
+ },
+ {
+  "chunk_id": "POL-014::8::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "8. Overtime",
+  "section_number": "8",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "Non-exempt US employees are paid 1.5 times their regular rate for hours worked over 40 in a workweek, and as required by state law. Overtime must be approved in advance by the manager, but all overtime that is worked will be paid even if it was not approved. Canadian and UK overtime follows provincial and national employment standards."
+ },
+ {
+  "chunk_id": "POL-014::9::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "9. Pay Corrections",
+  "section_number": "9",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "If an employee believes their pay is wrong, they should open an HR ticket in the Payroll category within 30 days of the payday, including the pay period and the amount in question. Payroll treats underpayments as P2 tickets and corrects confirmed underpayments within 5 business days, using an off-cycle payment if the amount is more than $100. Overpayments are recovered in agreement with the employee and in line with local law."
+ },
+ {
+  "chunk_id": "POL-014::10::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "10. Final Pay",
+  "section_number": "10",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "Final pay, including accrued and unused PTO where applicable (POL-002, Section 9), is paid on or before the next regular payday after separation, or sooner where local law requires."
+ },
+ {
+  "chunk_id": "POL-014::11::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "11. Pay Transparency",
+  "section_number": "11",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "Salary ranges are included in all job postings and are visible to employees for their own job level in PeopleHub. Employees may discuss their pay with others; Lumora will not retaliate against anyone for doing so."
+ },
+ {
+  "chunk_id": "POL-014::12::0",
+  "doc_id": "POL-014",
+  "title": "Payroll, Compensation, and Time Recording Policy",
+  "section": "12. Questions",
+  "section_number": "12",
+  "source_file": "POL-014-payroll-and-compensation.pdf",
+  "text": "Questions about pay, withholding, and pay statements go to an HR ticket in the Payroll category. Questions about salary ranges, promotions, and bonus plans go to the employee's manager or the Total Rewards team."
+ }
+]

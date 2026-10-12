@@ -1,0 +1,96 @@
+DOC-ID: POL-010
+TITLE: New Employee Onboarding Guide
+OWNER: People Operations
+EFFECTIVE-DATE: 2026-01-01
+VERSION: 2.2
+
+NOTE: Lumora Systems, Inc. is a fictional company. This document is synthetic and was written for an AI engineering course project.
+
+== 1. Welcome and Purpose ==
+
+Welcome to Lumora. This guide explains what happens during your first 90 days, what you need to complete and by when, and who to contact for help. Your manager, your onboarding buddy, and People Operations share responsibility for making your start smooth. Your first 90 days are your introductory period (see Employment Classifications, POL-001, Section 5).
+
+== 2. Before Your First Day ==
+
+People Operations and IT complete the following before you start:
+
+- Your PeopleHub account is created and you receive an invitation to your personal email 5 business days before your start date.
+- You complete the I-9 (US), right-to-work check (UK), or equivalent identity verification in PeopleHub before your first day. Bring the original documents on day one.
+- IT ships your laptop to remote employees so that it arrives at least 2 business days before the start date. Office-based and hybrid employees collect their laptop at the office on day one (see Equipment and IT Policy, POL-011).
+- Your manager assigns an onboarding buddy from your team.
+
+== 3. Day One Checklist ==
+
+On your first day you should:
+
+1. Sign in to your laptop and enroll in multi-factor authentication (POL-006, Section 6).
+2. Set up the Company password manager and the VPN.
+3. Review and sign the Information Security and Acceptable Use Policy and the Workplace Conduct Policy in PeopleHub.
+4. Confirm your bank details, tax withholding, and emergency contact in PeopleHub. Never send bank details by email.
+5. Attend the New Hire Welcome session (Mondays at 10:00 a.m. Eastern for US and Canada, 10:00 a.m. UK time for the UK).
+6. Meet your manager and onboarding buddy.
+
+== 4. First Week Checklist ==
+
+During your first week you should:
+
+- complete Security Awareness training (required within 7 days of your start date);
+- complete Workplace Conduct and Anti-Harassment training (required within 14 days; managers have additional manager training within 30 days);
+- enroll in benefits in PeopleHub (you have 30 days from your start date; see Benefits Overview, POL-008, Section 3);
+- review your 401(k) auto-enrollment and change your contribution rate if you wish;
+- read the PTO Policy (POL-002) and add company holidays for your location (POL-003) to your calendar;
+- agree on your 30-60-90 day goals with your manager;
+- request any additional equipment, such as an external monitor for hybrid and remote employees, through the IT Service Desk (POL-011).
+
+== 5. First 30 Days ==
+
+By day 30:
+
+- Your manager holds a 30-day check-in to review progress against goals and answer questions.
+- You complete role-specific training assigned in the Learning portal.
+- Remote and hybrid employees may submit their home office stipend claim at any time within 12 months (POL-007, Section 6.1).
+- You should have met with key partners outside your immediate team, as listed in your onboarding plan.
+
+== 6. Days 31 to 60 ==
+
+By day 60:
+
+- Your manager holds a 60-day check-in.
+- You take ownership of at least one deliverable or project area.
+- You complete any remaining compliance training, such as data privacy training for roles that handle customer data.
+
+== 7. Days 61 to 90 ==
+
+By day 90:
+
+- Your manager holds a 90-day review and confirms completion of the introductory period in PeopleHub.
+- After the introductory period, you become eligible to request a hybrid or remote arrangement change, temporary work from another location (POL-004), and Work From Abroad (POL-005), and to use more than 3 days of PTO without HR approval (POL-002, Section 2).
+
+== 8. Manager Responsibilities ==
+
+Managers must:
+
+- prepare an onboarding plan and share it with the new hire on day one;
+- assign an onboarding buddy;
+- hold 30-, 60-, and 90-day check-ins and record them in PeopleHub;
+- ensure required training is completed on time;
+- raise concerns about fit or performance with People Operations before day 75 so there is time to address them.
+
+== 9. Onboarding Buddy Role ==
+
+The onboarding buddy is a peer, not a manager. The buddy meets the new hire at least weekly for the first 4 weeks, answers questions about tools and team norms, and introduces the new hire to colleagues. Buddies are recognized through the recognition program.
+
+== 10. Interns ==
+
+Interns follow a shortened program run by University Programs: day-one setup, Security Awareness training within 7 days, a mid-program review, and an end-of-program presentation. Interns do not enroll in benefits other than the EAP.
+
+== 11. Contractors ==
+
+Contractors complete Security Awareness training and sign the Information Security and Acceptable Use Policy before receiving system access. Their onboarding is coordinated by Vendor Management and their Lumora sponsor.
+
+== 12. Help and Contacts ==
+
+- PeopleHub, payroll, benefits, and policy questions: open an HR ticket.
+- Laptop, accounts, and access: IT Service Desk.
+- Facilities and badges: the Workplace team at your office.
+- Concerns about conduct or safety: see the Workplace Conduct Policy (POL-012) and HR Case Handling Procedure (POL-013).
