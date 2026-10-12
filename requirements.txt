@@ -1,0 +1,12 @@
+# Runtime dependencies (pinned for reproducibility). All are free / open source.
+mcp==2.3.0               # Model Context Protocol SDK (server + client)
+fastapi==0.143.0         # web app and /chat, /health API
+uvicorn==0.54.0          # ASGI server
+pydantic==2.14.0
+openai==3.28.0           # OpenAI-compatible client, used for Groq's free tier (or OpenRouter / Gemini / Ollama)
+faiss-cpu==1.15.1        # local vector index
+numpy==2.5.4
+scikit-learn==1.9.1      # TF-IDF fallback embeddings
+fastembed==0.9.0         # local ONNX embeddings (BAAI/bge-small-en-v1.5), no API key
+beautifulsoup4==4.15.0   # HTML parsing
+pypdf==6.20.0            # PDF parsing

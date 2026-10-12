@@ -1,0 +1,45 @@
+# Render Blueprint: one free web service that runs the web app, agent orchestrator,
+# MCP server (child process over stdio), FAISS index and mock data together.
+services:
+  - type: web
+    name: lumora-hr-agent
+    runtime: python
+    plan: free
+    # Build the vector index during the build so the first request does not pay for it.
+    # The embedding model (~67 MB) is downloaded into data/models and kept with the build.
+    buildCommand: pip install -r requirements.txt && python -m hr_agent.rag.build_index
+    startCommand: uvicorn hr_agent.web.app:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    # Deploys are triggered by GitHub Actions (deploy hook) only after tests pass.
+    autoDeploy: false
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13.1
+      - key: EMBEDDING_BACKEND
+        value: fastembed
+      - key: LLM_BASE_URL
+        value: https://api.groq.com/openai/v1
+      - key: LLM_MODEL
+        value: openai/gpt-oss-120b
+      - key: LLM_API_KEY          # set in the Render dashboard; never committed
+        sync: false
+      - key: MCP_TRANSPORT
+        value: stdio
+      - key: AGENT_MODE
+        value: auto
+
+  # Optional, more production-like layout: run the MCP server as its own free service and point the
+  # web app at it (set MCP_TRANSPORT=http and MCP_SERVER_URL=https://<mcp-service>.onrender.com/mcp
+  # on the web service). Uncomment to use.
+  # - type: web
+  #   name: lumora-hr-mcp
+  #   runtime: python
+  #   plan: free
+  #   buildCommand: pip install -r requirements.txt && python -m hr_agent.rag.build_index
+  #   startCommand: python -m mcp_server.server --transport http --host 0.0.0.0
+  #   autoDeploy: false
+  #   envVars:
+  #     - key: PYTHON_VERSION
+  #       value: 3.13.1
+  #     - key: EMBEDDING_BACKEND
+  #       value: fastembed

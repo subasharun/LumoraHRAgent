@@ -1,0 +1,50 @@
+[
+  {
+    "employee_id": "E1003",
+    "category": "Global Mobility",
+    "priority": "P2",
+    "summary": "Global Mobility review: work from Portugal for about 30 workdays",
+    "details": "Exceeds the 20-workday WFA limit (POL-005 \u00a74); requesting a Global Mobility review.",
+    "restricted": false,
+    "ticket_id": "MOCK-HR-0001",
+    "status": "open",
+    "created_at": "2026-10-11T21:45:13+00:00",
+    "mock": true
+  },
+  {
+    "employee_id": "E1003",
+    "category": "Global Mobility",
+    "priority": "P2",
+    "summary": "Global Mobility review: work from Portugal for about 30 workdays",
+    "details": "Exceeds the 20-workday WFA limit (POL-005 \u00a74); requesting a Global Mobility review.",
+    "restricted": false,
+    "ticket_id": "MOCK-HR-0002",
+    "status": "open",
+    "created_at": "2026-10-11T23:05:38+00:00",
+    "mock": true
+  },
+  {
+    "employee_id": "E1003",
+    "category": "Global Mobility",
+    "priority": "P2",
+    "summary": "Global Mobility review: work from Portugal for about 30 workdays",
+    "details": "Exceeds the 20-workday WFA limit (POL-005 \u00a74); requesting a Global Mobility review.",
+    "restricted": false,
+    "ticket_id": "MOCK-HR-0003",
+    "status": "open",
+    "created_at": "2026-10-11T23:37:52+00:00",
+    "mock": true
+  },
+  {
+    "employee_id": "E1002",
+    "category": "Employee Relations",
+    "priority": "P1",
+    "summary": "Employee wants to report a workplace conduct concern (details to be shared with Employee Relations).",
+    "details": "Raised via HR Assistant. Details intentionally not recorded by the assistant.",
+    "restricted": true,
+    "ticket_id": "MOCK-HR-0004",
+    "status": "open",
+    "created_at": "2026-10-11T23:42:52+00:00",
+    "mock": true
+  }
+]

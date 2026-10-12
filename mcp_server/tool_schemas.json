@@ -1,0 +1,436 @@
+{
+  "server": "lumora-hr",
+  "tools": [
+    {
+      "name": "search_policy_documents",
+      "description": "Semantic search over the Lumora HR policy library. Returns the top-k policy chunks with doc_id, title, section, a citation string such as 'POL-002 \u00a75', the snippet text, and a score. Always use this before stating any policy fact.",
+      "input_schema": {
+        "properties": {
+          "query": {
+            "description": "Natural-language question or keywords, e.g. 'notice required for 3 days PTO'.",
+            "title": "Query",
+            "type": "string"
+          },
+          "k": {
+            "default": 5,
+            "description": "Number of chunks to return.",
+            "maximum": 10,
+            "minimum": 1,
+            "title": "K",
+            "type": "integer"
+          },
+          "doc_ids": {
+            "anyOf": [
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Optional filter, e.g. ['POL-002'] to search only the PTO policy.",
+            "title": "Doc Ids"
+          }
+        },
+        "required": [
+          "query"
+        ],
+        "type": "object",
+        "title": "search_policy_documentsArguments"
+      }
+    },
+    {
+      "name": "get_policy_section",
+      "description": "Return the full text of one section of a policy document (use after search to read a rule in full).",
+      "input_schema": {
+        "properties": {
+          "doc_id": {
+            "description": "Policy document ID, e.g. 'POL-005'.",
+            "title": "Doc Id",
+            "type": "string"
+          },
+          "section": {
+            "description": "Section number such as '4' or '5.1', or words from the heading.",
+            "title": "Section",
+            "type": "string"
+          }
+        },
+        "required": [
+          "doc_id",
+          "section"
+        ],
+        "type": "object",
+        "title": "get_policy_sectionArguments"
+      }
+    },
+    {
+      "name": "list_policy_documents",
+      "description": "List all policy documents (ID, title, source file, section headings) in the library.",
+      "input_schema": {
+        "properties": {},
+        "type": "object",
+        "title": "list_policy_documentsArguments"
+      }
+    },
+    {
+      "name": "lookup_employee_profile",
+      "description": "Look up an employee's (synthetic) profile: title, department, employment type, FTE, hire date, tenure, work arrangement, work location, office, manager, and introductory-period status.",
+      "input_schema": {
+        "properties": {
+          "employee_id": {
+            "description": "Employee ID, e.g. 'E1003'.",
+            "title": "Employee Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "employee_id"
+        ],
+        "type": "object",
+        "title": "lookup_employee_profileArguments"
+      }
+    },
+    {
+      "name": "check_pto_balance",
+      "description": "Return the employee's PTO balance (available days, pending requests, accrual tier, cap, carryover limit, floating holidays and sick days remaining). Contractors and interns do not accrue PTO.",
+      "input_schema": {
+        "properties": {
+          "employee_id": {
+            "description": "Employee ID, e.g. 'E1002'.",
+            "title": "Employee Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "employee_id"
+        ],
+        "type": "object",
+        "title": "check_pto_balanceArguments"
+      }
+    },
+    {
+      "name": "lookup_benefits_status",
+      "description": "Return the employee's current benefit elections and which benefit programs they are eligible for based on employment type and FTE (POL-001 \u00a74, POL-008 \u00a72).",
+      "input_schema": {
+        "properties": {
+          "employee_id": {
+            "description": "Employee ID, e.g. 'E1015'.",
+            "title": "Employee Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "employee_id"
+        ],
+        "type": "object",
+        "title": "lookup_benefits_statusArguments"
+      }
+    },
+    {
+      "name": "check_policy_compliance",
+      "description": "Check a concrete request against Lumora policy rules using the employee's mock data. Returns a decision (compliant / needs_approval / partially_compliant / not_compliant / not_eligible / needs_more_info), each rule checked with its policy citation, required approvals, and next steps.",
+      "input_schema": {
+        "properties": {
+          "employee_id": {
+            "description": "Employee ID the request is for.",
+            "title": "Employee Id",
+            "type": "string"
+          },
+          "request_type": {
+            "description": "pto = time off; remote_work_domestic = temporary work from another state/province; work_from_abroad = working from another country; expense = reimbursement or stipend.",
+            "enum": [
+              "pto",
+              "remote_work_domestic",
+              "work_from_abroad",
+              "expense"
+            ],
+            "title": "Request Type",
+            "type": "string"
+          },
+          "start_date": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "ISO date YYYY-MM-DD of the first day (PTO / travel).",
+            "title": "Start Date"
+          },
+          "end_date": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "ISO date YYYY-MM-DD of the last day.",
+            "title": "End Date"
+          },
+          "days": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "PTO: number of business days requested.",
+            "title": "Days"
+          },
+          "weeks": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Work from abroad / remote: duration in weeks.",
+            "title": "Weeks"
+          },
+          "calendar_days": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Remote domestic: total calendar days away.",
+            "title": "Calendar Days"
+          },
+          "workdays": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Work from abroad: number of workdays abroad.",
+            "title": "Workdays"
+          },
+          "destination_country": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Work from abroad: destination country, e.g. 'Portugal'.",
+            "title": "Destination Country"
+          },
+          "destination_state": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Remote domestic: destination state/province code, e.g. 'CO'.",
+            "title": "Destination State"
+          },
+          "expense_category": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Expense: e.g. 'laptop', 'chair', 'desk', 'meal', 'hotel', 'learning', 'coworking'.",
+            "title": "Expense Category"
+          },
+          "amount": {
+            "anyOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Expense: amount in USD.",
+            "title": "Amount"
+          },
+          "travel_type": {
+            "anyOf": [
+              {
+                "enum": [
+                  "domestic",
+                  "international"
+                ],
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Expense: travel type for meals.",
+            "title": "Travel Type"
+          },
+          "city": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Expense: city for hotel caps.",
+            "title": "City"
+          }
+        },
+        "required": [
+          "employee_id",
+          "request_type"
+        ],
+        "type": "object",
+        "title": "check_policy_complianceArguments"
+      }
+    },
+    {
+      "name": "create_mock_hr_ticket",
+      "description": "Create a MOCK HR ticket (no real system is touched). With confirm=false it only returns a preview and asks for confirmation. Employee Relations tickets are automatically priority P1 (POL-013 \u00a74).",
+      "input_schema": {
+        "properties": {
+          "employee_id": {
+            "description": "Employee ID the ticket is for.",
+            "title": "Employee Id",
+            "type": "string"
+          },
+          "category": {
+            "description": "Ticket category from POL-013 \u00a73.",
+            "enum": [
+              "Time Off",
+              "Benefits",
+              "Leave",
+              "Work Location",
+              "Global Mobility",
+              "Payroll",
+              "Expenses",
+              "Employment Records",
+              "Accommodations",
+              "Employee Relations"
+            ],
+            "title": "Category",
+            "type": "string"
+          },
+          "summary": {
+            "description": "One-sentence summary of the request.",
+            "title": "Summary",
+            "type": "string"
+          },
+          "details": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "description": "Relevant dates, policy sections reviewed, etc. No medical details.",
+            "title": "Details"
+          },
+          "confirm": {
+            "default": false,
+            "description": "false = return a preview only (default). true = create the mock ticket; only allowed after the user explicitly confirms.",
+            "title": "Confirm",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "employee_id",
+          "category",
+          "summary"
+        ],
+        "type": "object",
+        "title": "create_mock_hr_ticketArguments"
+      }
+    },
+    {
+      "name": "draft_hr_email",
+      "description": "Draft (never send) an email for the employee to review and send themselves.",
+      "input_schema": {
+        "properties": {
+          "employee_id": {
+            "description": "Employee ID of the sender.",
+            "title": "Employee Id",
+            "type": "string"
+          },
+          "recipient": {
+            "description": "Who the draft is addressed to.",
+            "enum": [
+              "manager",
+              "hr",
+              "global_mobility"
+            ],
+            "title": "Recipient",
+            "type": "string"
+          },
+          "purpose": {
+            "description": "What the message is about.",
+            "enum": [
+              "pto_request",
+              "remote_work_request",
+              "work_from_abroad_request",
+              "expense_question",
+              "general"
+            ],
+            "title": "Purpose",
+            "type": "string"
+          },
+          "key_points": {
+            "description": "Short facts to include, e.g. dates, days, policy citations.",
+            "items": {
+              "type": "string"
+            },
+            "title": "Key Points",
+            "type": "array"
+          }
+        },
+        "required": [
+          "employee_id",
+          "recipient",
+          "purpose",
+          "key_points"
+        ],
+        "type": "object",
+        "title": "draft_hr_emailArguments"
+      }
+    }
+  ]
+}

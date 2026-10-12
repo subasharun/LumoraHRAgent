@@ -1,0 +1,76 @@
+DOC-ID: POL-011
+TITLE: Equipment and IT Services Policy
+OWNER: IT
+EFFECTIVE-DATE: 2026-01-01
+VERSION: 3.4
+
+NOTE: Lumora Systems, Inc. is a fictional company. This document is synthetic and was written for an AI engineering course project.
+
+== 1. Purpose ==
+
+This policy explains what equipment Lumora provides, how to request and replace it, how to look after it, and what to do when you leave. All equipment described here remains Lumora property unless stated otherwise. Security requirements for using devices are in the Information Security and Acceptable Use Policy (POL-006).
+
+== 2. Standard Equipment ==
+
+Every employee and intern receives:
+
+- one laptop: a 14-inch MacBook Pro or a ThinkPad X1 Carbon, depending on role. Engineers and designers may request a 16-inch model with manager approval;
+- a laptop charger and a USB-C hub;
+- a hardware security key (two for engineers with production access);
+- a headset with microphone.
+
+Hybrid and remote employees may also request, through the IT Service Desk:
+
+- one 27-inch external monitor, shipped to their registered home address;
+- a full-size keyboard and mouse.
+
+Office-based employees have monitors, docks, keyboards, and mice at their desks or in hot-desk areas.
+
+Contractors receive equipment only when their statement of work requires it; otherwise they must use a Lumora-managed virtual desktop.
+
+== 3. Requesting Equipment ==
+
+Submit all equipment requests through the IT Service Desk portal. Standard requests are fulfilled within 5 business days in the US and within 10 business days in Canada and the UK. Non-standard equipment (for example, a second monitor, specialized input devices, or a high-performance workstation) requires manager approval and a business justification.
+
+Employees must not purchase laptops, monitors, tablets, or phones themselves and claim reimbursement. These items are not reimbursable under the Expense Reimbursement Policy (POL-007, Section 4) and are not covered by the home office stipend (POL-007, Section 6.1).
+
+== 4. Replacement and Upgrades ==
+
+- Laptops are replaced on a 3-year refresh cycle. IT contacts you when your laptop is eligible.
+- If your laptop is damaged, malfunctioning, or too slow for your work before the refresh date, open an IT Service Desk ticket. IT will repair, upgrade, or replace it at no cost to you.
+- Accidental damage is repaired at no cost. Repeated damage caused by negligence may require manager review.
+
+== 5. Accessibility and Ergonomic Equipment ==
+
+Employees who need equipment as a workplace accommodation (for example, a specialized keyboard, screen reader software, or an adjustable desk in the office) should contact People Operations through an HR ticket in the "Accommodations" category. Accommodation equipment is provided at no cost and does not use the home office stipend. Medical details are shared only with the Accommodations team.
+
+== 6. Software and Accounts ==
+
+Standard accounts are created before your start date. Additional software must come from the Lumora Software Catalog (POL-006, Section 7). Access to systems containing Confidential or Restricted data requires manager approval through an access request and is reviewed every quarter.
+
+== 7. Care of Equipment ==
+
+- Keep devices with you or locked away. Do not leave them visible in a parked car.
+- Use the provided cases when traveling.
+- Do not modify hardware, remove asset tags, or install unapproved operating systems.
+- Keep your laptop online at least once every 7 days so that it receives security updates.
+
+== 8. Lost or Stolen Equipment ==
+
+Report lost or stolen equipment to the IT Service Desk within 1 hour of discovering the loss (POL-006, Section 9). IT will lock and wipe the device remotely. If the device was stolen, file a police report and give IT the report number. You will not be charged for a lost or stolen device that you report promptly.
+
+== 9. Personal Use ==
+
+Limited, reasonable personal use of Lumora equipment (for example, reading the news during a break) is permitted, provided it does not interfere with work, violate POL-006, or involve illegal or offensive content. Do not store personal files you would not want to lose; devices may be wiped at any time.
+
+== 10. Returning Equipment ==
+
+When you leave Lumora, or when a device is replaced, you must return all equipment within 10 calendar days. IT sends a prepaid return kit to remote employees. Office-based employees return equipment to the Workplace team on their last day. Unreturned equipment may be charged at its depreciated value where permitted by law. Items bought with the home office stipend belong to you and do not need to be returned.
+
+== 11. Travel Loaner Devices ==
+
+IT provides travel loaner laptops and phones for travel to high-risk destinations (POL-006, Section 11). Request a loaner at least 10 business days before departure. Loaners are wiped on return.
+
+== 12. Getting Help ==
+
+The IT Service Desk is available 24/7 through the portal, by chat in #it-help, and by phone for urgent issues such as lost devices or account lockouts. Typical response times: urgent issues within 1 hour, standard issues within 1 business day.

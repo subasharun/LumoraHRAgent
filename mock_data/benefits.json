@@ -1,0 +1,17 @@
+{
+  "_notice": "SYNTHETIC DATA. Plan names match the fictional Benefits Overview (POL-008).",
+  "plan_year": 2026,
+  "elections": {
+    "E1001": {"medical": {"plan": "Plus PPO", "tier": "family"}, "dental": true, "vision": true, "retirement": {"plan": "401(k)", "contribution_pct": 6}, "hsa": null, "life_insurance": "2x salary", "enrollment_status": "enrolled"},
+    "E1002": {"medical": {"plan": "HDHP with HSA", "tier": "employee_only"}, "dental": true, "vision": false, "retirement": {"plan": "401(k)", "contribution_pct": 4}, "hsa": {"company_contribution_annual": 750}, "life_insurance": "2x salary", "enrollment_status": "enrolled"},
+    "E1003": {"medical": {"plan": "Basic PPO", "tier": "employee_only"}, "dental": true, "vision": true, "retirement": {"plan": "401(k)", "contribution_pct": 5}, "hsa": null, "life_insurance": "2x salary", "enrollment_status": "enrolled"},
+    "E1004": {"medical": null, "dental": false, "vision": false, "retirement": {"plan": "401(k)", "contribution_pct": 3}, "hsa": null, "life_insurance": null, "enrollment_status": "enrolled_retirement_only"},
+    "E1005": {"medical": {"plan": "Canada Supplemental Health", "tier": "family"}, "dental": true, "vision": true, "retirement": {"plan": "Group RRSP", "contribution_pct": 4}, "hsa": null, "life_insurance": "2x salary", "enrollment_status": "enrolled"},
+    "E1006": {"medical": null, "dental": false, "vision": false, "retirement": null, "hsa": null, "life_insurance": null, "enrollment_status": "eap_only"},
+    "E1007": {"medical": {"plan": "UK Private Medical", "tier": "employee_only"}, "dental": false, "vision": false, "retirement": {"plan": "UK Workplace Pension", "contribution_pct": 5}, "hsa": null, "life_insurance": "4x salary", "enrollment_status": "enrolled"},
+    "E1008": {"medical": null, "dental": false, "vision": false, "retirement": null, "hsa": null, "life_insurance": null, "enrollment_status": "not_eligible_contractor"},
+    "E1009": {"medical": {"plan": "Basic PPO", "tier": "family"}, "dental": true, "vision": true, "retirement": {"plan": "401(k)", "contribution_pct": 4}, "hsa": null, "life_insurance": "2x salary", "enrollment_status": "enrolled"},
+    "E1010": {"medical": {"plan": "Plus PPO", "tier": "family"}, "dental": true, "vision": true, "retirement": {"plan": "401(k)", "contribution_pct": 8}, "hsa": null, "life_insurance": "2x salary", "enrollment_status": "enrolled"},
+    "E1015": {"medical": null, "dental": false, "vision": false, "retirement": {"plan": "401(k)", "contribution_pct": 4, "auto_enrolled": true}, "hsa": null, "life_insurance": "2x salary", "enrollment_status": "enrollment_window_open", "enrollment_deadline": "2026-10-21"}
+  }
+}

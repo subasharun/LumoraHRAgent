@@ -1,0 +1,20 @@
+{
+  "_notice": "SYNTHETIC DATA. Balances are in days, as of the last processed pay period.",
+  "as_of": "2026-09-30",
+  "balances": {
+    "E1001": {"carryover": 5.0, "accrued_ytd": 18.75, "used_ytd": 14.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 1, "sick_days_remaining": 7.0},
+    "E1002": {"carryover": 3.0, "accrued_ytd": 15.0, "used_ytd": 9.0, "pending_requests": [{"start": "2026-11-23", "end": "2026-11-24", "days": 2.0, "status": "pending_manager"}], "advance_outstanding": 0.0, "floating_holidays_remaining": 2, "sick_days_remaining": 9.0},
+    "E1003": {"carryover": 5.0, "accrued_ytd": 15.0, "used_ytd": 11.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 1, "sick_days_remaining": 8.0},
+    "E1004": {"carryover": 1.0, "accrued_ytd": 6.75, "used_ytd": 5.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 0, "sick_days_remaining": 4.0},
+    "E1005": {"carryover": 5.0, "accrued_ytd": 18.75, "used_ytd": 20.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 0, "sick_days_remaining": 10.0},
+    "E1007": {"carryover": 5.0, "accrued_ytd": 15.0, "used_ytd": 12.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 2, "sick_days_remaining": 10.0},
+    "E1009": {"carryover": 2.0, "accrued_ytd": 9.0, "used_ytd": 4.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 1, "sick_days_remaining": 8.0},
+    "E1010": {"carryover": 5.0, "accrued_ytd": 18.75, "used_ytd": 16.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 2, "sick_days_remaining": 10.0},
+    "E1011": {"carryover": 5.0, "accrued_ytd": 18.75, "used_ytd": 10.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 1, "sick_days_remaining": 10.0},
+    "E1012": {"carryover": 4.0, "accrued_ytd": 18.75, "used_ytd": 15.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 2, "sick_days_remaining": 6.0},
+    "E1013": {"carryover": 5.0, "accrued_ytd": 18.75, "used_ytd": 18.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 0, "sick_days_remaining": 10.0},
+    "E1014": {"carryover": 5.0, "accrued_ytd": 18.75, "used_ytd": 12.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 2, "sick_days_remaining": 10.0},
+    "E1015": {"carryover": 0.0, "accrued_ytd": 0.625, "used_ytd": 0.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 1, "sick_days_remaining": 2.5},
+    "E1016": {"carryover": 5.0, "accrued_ytd": 15.0, "used_ytd": 8.0, "pending_requests": [], "advance_outstanding": 0.0, "floating_holidays_remaining": 2, "sick_days_remaining": 10.0}
+  }
+}

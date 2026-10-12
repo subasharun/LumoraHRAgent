@@ -1,0 +1,439 @@
+{
+  "_notice": "SYNTHETIC DATA. All people, IDs, addresses and values are invented for a course project. No real employee information.",
+  "employees": [
+    {
+      "employee_id": "E1001",
+      "name": "Maya Chen (synthetic)",
+      "title": "Senior Software Engineer",
+      "department": "Engineering",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2019-03-04",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "Atlanta",
+      "work_location": {
+        "city": "Atlanta",
+        "state_province": "GA",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1010",
+      "on_pip": false,
+      "email": "maya.chen@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2025-11-03",
+      "home_office_stipend_claimed": false
+    },
+    {
+      "employee_id": "E1002",
+      "name": "Jordan Reyes (synthetic)",
+      "title": "Product Designer",
+      "department": "Design",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2024-06-17",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "Austin",
+      "work_location": {
+        "city": "Austin",
+        "state_province": "TX",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1011",
+      "on_pip": false,
+      "email": "jordan.reyes@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2024-06-17",
+      "home_office_stipend_claimed": false
+    },
+    {
+      "employee_id": "E1003",
+      "name": "Priya Nair (synthetic)",
+      "title": "Data Analyst",
+      "department": "Engineering",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2022-09-12",
+      "work_arrangement": "remote",
+      "remote_eligible_role": true,
+      "office": null,
+      "work_location": {
+        "city": "Raleigh",
+        "state_province": "NC",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1010",
+      "on_pip": false,
+      "email": "priya.nair@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2022-09-12",
+      "home_office_stipend_claimed": true
+    },
+    {
+      "employee_id": "E1004",
+      "name": "Liam O'Connor (synthetic)",
+      "title": "Customer Support Specialist",
+      "department": "Customer Support",
+      "employment_type": "part_time",
+      "fte": 0.6,
+      "flsa_status": "non_exempt",
+      "hire_date": "2025-02-03",
+      "work_arrangement": "office",
+      "remote_eligible_role": false,
+      "office": "Atlanta",
+      "work_location": {
+        "city": "Atlanta",
+        "state_province": "GA",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1012",
+      "on_pip": false,
+      "email": "liam.oconnor@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2025-02-03",
+      "home_office_stipend_claimed": false
+    },
+    {
+      "employee_id": "E1005",
+      "name": "Sofia Martins (synthetic)",
+      "title": "Marketing Manager",
+      "department": "Marketing",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2021-01-11",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "Toronto",
+      "work_location": {
+        "city": "Toronto",
+        "state_province": "ON",
+        "country": "CA"
+      },
+      "citizenship": [
+        "CA",
+        "PT"
+      ],
+      "manager_id": "E1013",
+      "on_pip": false,
+      "email": "sofia.martins@lumora.example",
+      "wfa_workdays_last_12m": 10,
+      "arrangement_start_date": "2021-01-11",
+      "home_office_stipend_claimed": true
+    },
+    {
+      "employee_id": "E1006",
+      "name": "Noah Williams (synthetic)",
+      "title": "Software Engineering Intern",
+      "department": "Engineering",
+      "employment_type": "intern",
+      "fte": 1.0,
+      "flsa_status": "non_exempt",
+      "hire_date": "2026-09-08",
+      "program_end_date": "2026-12-18",
+      "work_arrangement": "office",
+      "remote_eligible_role": false,
+      "office": "Atlanta",
+      "work_location": {
+        "city": "Atlanta",
+        "state_province": "GA",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1010",
+      "on_pip": false,
+      "email": "noah.williams@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2026-09-08",
+      "home_office_stipend_claimed": false
+    },
+    {
+      "employee_id": "E1007",
+      "name": "Emma Clarke (synthetic)",
+      "title": "Account Executive",
+      "department": "Sales",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2023-04-03",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "London",
+      "work_location": {
+        "city": "London",
+        "state_province": "ENG",
+        "country": "GB"
+      },
+      "citizenship": [
+        "GB"
+      ],
+      "manager_id": "E1016",
+      "on_pip": false,
+      "email": "emma.clarke@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2023-04-03",
+      "home_office_stipend_claimed": true
+    },
+    {
+      "employee_id": "E1008",
+      "name": "Daniel Kim (synthetic)",
+      "title": "QA Engineer (Contractor)",
+      "department": "Engineering",
+      "employment_type": "contractor",
+      "fte": 1.0,
+      "flsa_status": "not_applicable",
+      "hire_date": "2026-03-02",
+      "work_arrangement": "remote",
+      "remote_eligible_role": true,
+      "office": null,
+      "work_location": {
+        "city": "Austin",
+        "state_province": "TX",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1010",
+      "on_pip": false,
+      "email": "daniel.kim.contractor@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2026-03-02",
+      "home_office_stipend_claimed": false
+    },
+    {
+      "employee_id": "E1009",
+      "name": "Grace Okafor (synthetic)",
+      "title": "HR Generalist",
+      "department": "People Operations",
+      "employment_type": "part_time",
+      "fte": 0.8,
+      "flsa_status": "exempt",
+      "hire_date": "2024-11-04",
+      "work_arrangement": "remote",
+      "remote_eligible_role": true,
+      "office": null,
+      "work_location": {
+        "city": "Decatur",
+        "state_province": "GA",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1014",
+      "on_pip": false,
+      "email": "grace.okafor@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2024-11-04",
+      "home_office_stipend_claimed": false
+    },
+    {
+      "employee_id": "E1010",
+      "name": "Marcus Bell (synthetic)",
+      "title": "Engineering Manager",
+      "department": "Engineering",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2017-08-21",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "Atlanta",
+      "work_location": {
+        "city": "Atlanta",
+        "state_province": "GA",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1014",
+      "on_pip": false,
+      "email": "marcus.bell@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2020-03-16",
+      "home_office_stipend_claimed": true
+    },
+    {
+      "employee_id": "E1011",
+      "name": "Hannah Fischer (synthetic)",
+      "title": "Design Manager",
+      "department": "Design",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2020-05-04",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "Austin",
+      "work_location": {
+        "city": "Austin",
+        "state_province": "TX",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1014",
+      "on_pip": false,
+      "email": "hannah.fischer@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2020-05-04",
+      "home_office_stipend_claimed": true
+    },
+    {
+      "employee_id": "E1012",
+      "name": "Carlos Mendes (synthetic)",
+      "title": "Customer Support Manager",
+      "department": "Customer Support",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2018-10-15",
+      "work_arrangement": "office",
+      "remote_eligible_role": true,
+      "office": "Atlanta",
+      "work_location": {
+        "city": "Atlanta",
+        "state_province": "GA",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1014",
+      "on_pip": false,
+      "email": "carlos.mendes@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2018-10-15",
+      "home_office_stipend_claimed": false
+    },
+    {
+      "employee_id": "E1013",
+      "name": "Olivia Tremblay (synthetic)",
+      "title": "Director of Marketing",
+      "department": "Marketing",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2016-02-01",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "Toronto",
+      "work_location": {
+        "city": "Toronto",
+        "state_province": "ON",
+        "country": "CA"
+      },
+      "citizenship": [
+        "CA"
+      ],
+      "manager_id": null,
+      "on_pip": false,
+      "email": "olivia.tremblay@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2020-03-16",
+      "home_office_stipend_claimed": true
+    },
+    {
+      "employee_id": "E1014",
+      "name": "Rebecca Stone (synthetic)",
+      "title": "VP, Engineering and Design",
+      "department": "Engineering",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2015-06-01",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "Atlanta",
+      "work_location": {
+        "city": "Atlanta",
+        "state_province": "GA",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": null,
+      "on_pip": false,
+      "email": "rebecca.stone@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2020-03-16",
+      "home_office_stipend_claimed": true
+    },
+    {
+      "employee_id": "E1015",
+      "name": "Ethan Park (synthetic)",
+      "title": "Sales Development Representative",
+      "department": "Sales",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "non_exempt",
+      "hire_date": "2026-09-21",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "Austin",
+      "work_location": {
+        "city": "Austin",
+        "state_province": "TX",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1016",
+      "on_pip": false,
+      "email": "ethan.park@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2026-09-21",
+      "home_office_stipend_claimed": false
+    },
+    {
+      "employee_id": "E1016",
+      "name": "Laura Benson (synthetic)",
+      "title": "Sales Manager",
+      "department": "Sales",
+      "employment_type": "full_time",
+      "fte": 1.0,
+      "flsa_status": "exempt",
+      "hire_date": "2020-11-02",
+      "work_arrangement": "hybrid",
+      "remote_eligible_role": true,
+      "office": "Austin",
+      "work_location": {
+        "city": "Austin",
+        "state_province": "TX",
+        "country": "US"
+      },
+      "citizenship": [
+        "US"
+      ],
+      "manager_id": "E1014",
+      "on_pip": false,
+      "email": "laura.benson@lumora.example",
+      "wfa_workdays_last_12m": 0,
+      "arrangement_start_date": "2020-11-02",
+      "home_office_stipend_claimed": true
+    }
+  ]
+}

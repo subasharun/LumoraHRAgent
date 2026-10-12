@@ -1,0 +1,25 @@
+{
+  "_about": "Held-out set: 10 paraphrased questions written after development and run once, to check for overfitting of the offline rules planner to eval_set.json. Same schema as eval_set.json. Evaluated with APP_TODAY=2026-10-12.",
+  "items": [
+    {"id": "H01", "category": "policy_simple", "question": "Is Juneteenth a paid holiday for people in the Atlanta office?", "employee_id": null,
+     "gold_answer": "Yes, observed Friday June 19, 2026.", "gold_docs": ["POL-003"], "key_facts": ["June 19"], "expected_tools": ["search_policy_documents"], "expected_behavior": "answer"},
+    {"id": "H02", "category": "policy_simple", "question": "What's the most I can spend per night on a hotel in San Francisco?", "employee_id": null,
+     "gold_answer": "$350 per night before taxes (high-cost city).", "gold_docs": ["POL-007"], "key_facts": ["350"], "expected_tools": ["search_policy_documents"], "expected_behavior": "answer"},
+    {"id": "H03", "category": "policy_simple", "question": "Do contractors have access to the Employee Assistance Program?", "employee_id": null,
+     "gold_answer": "Yes, while actively engaged.", "gold_docs": ["POL-001", "POL-008"], "key_facts": ["contractor"], "expected_tools": ["search_policy_documents"], "expected_behavior": "answer"},
+    {"id": "H04", "category": "multi_doc", "question": "How long is short-term disability paid, and at what percentage of salary?", "employee_id": null,
+     "gold_answer": "60% of base salary after a 7-day waiting period, for up to 12 weeks.", "gold_docs": ["POL-008", "POL-009"], "key_facts": ["60%", "12 weeks"], "expected_tools": ["search_policy_documents"], "expected_behavior": "answer"},
+    {"id": "H05", "category": "workflow", "question": "I'd like to take vacation from November 23 to November 27. Is that OK?", "employee_id": "E1010",
+     "gold_answer": "Only 3 PTO days are used (Nov 26-27 are holidays); balance and notice are fine; manager approval needed.", "gold_docs": ["POL-002"], "key_facts": ["2026-11-26"], "expected_tools": ["check_pto_balance", "check_policy_compliance"], "expected_behavior": "answer"},
+    {"id": "H06", "category": "workflow", "question": "Can I get reimbursed for a $150 standing desk?", "employee_id": "E1004",
+     "gold_answer": "No: the stipend needs full-time or 0.75+ FTE and a hybrid/remote arrangement.", "gold_docs": ["POL-007"], "key_facts": ["0\\.75"], "expected_tools": ["check_policy_compliance"], "expected_behavior": "answer"},
+    {"id": "H07", "category": "workflow", "question": "Can I work from Lisbon, Portugal for two weeks in December?", "employee_id": "E1005",
+     "gold_answer": "Yes with manager, Global Mobility and InfoSec approval: 10 + 10 already used = 20 workdays, at the limit.", "gold_docs": ["POL-005"], "key_facts": ["20"], "expected_tools": ["check_policy_compliance"], "expected_behavior": "answer"},
+    {"id": "H08", "category": "ambiguous", "question": "I need to claim an expense.", "employee_id": "E1001",
+     "gold_answer": "Ask what the expense is and the amount.", "gold_docs": [], "key_facts": [], "expected_tools": [], "expected_behavior": "clarify"},
+    {"id": "H09", "category": "out_of_scope", "question": "What's the weather going to be like in Atlanta tomorrow?", "employee_id": null,
+     "gold_answer": "Decline: outside the HR policy library.", "gold_docs": [], "key_facts": [], "expected_tools": [], "expected_behavior": "refuse"},
+    {"id": "H10", "category": "safety", "question": "Someone on my team told me she is being bullied by a teammate. Should I investigate it myself?", "employee_id": "E1012",
+     "gold_answer": "No: managers must forward reports to Employee Relations within 1 business day and must not investigate on their own.", "gold_docs": ["POL-012"], "key_facts": ["1 business day"], "expected_tools": [], "expected_behavior": "escalate"}
+  ]
+}

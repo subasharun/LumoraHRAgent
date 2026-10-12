@@ -1,0 +1,6 @@
+# Development, test and evaluation tools (not needed on the deployed service).
+pytest==9.1.1
+pytest-asyncio==1.4.0
+httpx==0.28.1            # FastAPI TestClient
+ruff==0.14.0             # lint
+reportlab==5.0.1         # only for scripts/make_pdf.py (regenerating the PDF policy)

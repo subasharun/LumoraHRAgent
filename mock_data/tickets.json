@@ -1,0 +1,8 @@
+{
+  "_notice": "SYNTHETIC DATA. Seed tickets. New tickets created by the agent are written to a separate runtime file (see MOCK_TICKETS_RUNTIME_PATH) so this file is never modified.",
+  "tickets": [
+    {"ticket_id": "HR-2026-0412", "employee_id": "E1002", "category": "Time Off", "priority": "P3", "status": "open", "summary": "PTO balance shows 1 day less than expected after July holiday.", "created_at": "2026-09-28T14:02:00Z"},
+    {"ticket_id": "HR-2026-0398", "employee_id": "E1009", "category": "Benefits", "priority": "P3", "status": "resolved", "summary": "Add newborn to medical plan (qualifying life event).", "created_at": "2026-08-14T09:30:00Z"},
+    {"ticket_id": "HR-2026-0377", "employee_id": "E1005", "category": "Global Mobility", "priority": "P2", "status": "closed", "summary": "Work from abroad request: Lisbon, 10 workdays in June.", "created_at": "2026-04-20T16:45:00Z"}
+  ]
+}

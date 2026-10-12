@@ -1,0 +1,409 @@
+[
+  {
+    "id": "H01",
+    "category": "policy_simple",
+    "question": "Is Juneteenth a paid holiday for people in the Atlanta office?",
+    "mode": "rules",
+    "intent": "policy_question",
+    "tools_called": [
+      "search_policy_documents"
+    ],
+    "expected_tools": [
+      "search_policy_documents"
+    ],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "answer"
+    ],
+    "behaviour_observed": [
+      "answer"
+    ],
+    "behaviour_ok": true,
+    "groundedness": 1.0,
+    "claims": 4,
+    "cited_docs": [
+      "POL-001",
+      "POL-002",
+      "POL-003"
+    ],
+    "gold_docs": [
+      "POL-003"
+    ],
+    "citation_hit": true,
+    "citation_precision": 0.333,
+    "citation_recall": 1.0,
+    "partial_match": 1.0,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 6.7,
+    "answer": "**Answer:** Here is what the policy library says (from 2 policies):\n\n**Policy facts:**\n- Juneteenth | June 19, 2026 | Friday. [POL-003 \u00a72]\n- Non-exempt US employees who work on a holiday are also paid at 1.5 times their regular rate for hours worked. [POL-003 \u00a76]\n- For employees working outside their home country under an approved work-from-abroad arrangement (POL-005), the holiday calendar of their registered work location applies. [POL-002 \u00a78]\n- The work location determines the employee's payroll jurisdiction, the holiday calendar that applies (POL-003), and the tax and legal obligations that the Company must meet. [POL-001 \u00a77]\n\n**Recommended next step:** if your situation isn't covered above, open an HR ticket so People Operations can confirm."
+  },
+  {
+    "id": "H02",
+    "category": "policy_simple",
+    "question": "What's the most I can spend per night on a hotel in San Francisco?",
+    "mode": "rules",
+    "intent": "policy_question",
+    "tools_called": [
+      "search_policy_documents"
+    ],
+    "expected_tools": [
+      "search_policy_documents"
+    ],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "answer"
+    ],
+    "behaviour_observed": [
+      "answer"
+    ],
+    "behaviour_ok": true,
+    "groundedness": 1.0,
+    "claims": 4,
+    "cited_docs": [
+      "POL-005",
+      "POL-007",
+      "POL-014"
+    ],
+    "gold_docs": [
+      "POL-007"
+    ],
+    "citation_hit": true,
+    "citation_precision": 0.333,
+    "citation_recall": 1.0,
+    "partial_match": 1.0,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 6.6,
+    "answer": "**Answer:** Here is what the policy library says:\n\n**Policy facts:**\n- Pay zones are based on the employee's registered work location (see POL-001, Section 7): Zone A: San Francisco, New York, Seattle, Boston, London Zone B: Atlanta, Austin, Toronto, and other large metropolitan areas Zone C: all other locations in the United States and Canada Moving permanently to a location in a different pay zone may change the employee's salary range. [POL-014 \u00a74]\n- The guiding principle is simple: spend Company money as carefully as you would spend your own, and only for legitimate business purposes. [POL-007 \u00a71]\n- High-cost cities: New York, San Francisco, Boston, Seattle, London, Zurich, Tokyo | $350. [POL-007 \u00a75.3]\n- WFA is a benefit of flexibility, not business travel. [POL-005 \u00a710]\n\n**Recommended next step:** if your situation isn't covered above, open an HR ticket so People Operations can confirm."
+  },
+  {
+    "id": "H03",
+    "category": "policy_simple",
+    "question": "Do contractors have access to the Employee Assistance Program?",
+    "mode": "rules",
+    "intent": "policy_question",
+    "tools_called": [
+      "search_policy_documents"
+    ],
+    "expected_tools": [
+      "search_policy_documents"
+    ],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "answer"
+    ],
+    "behaviour_observed": [
+      "answer"
+    ],
+    "behaviour_ok": true,
+    "groundedness": 1.0,
+    "claims": 4,
+    "cited_docs": [
+      "POL-001",
+      "POL-008",
+      "POL-012"
+    ],
+    "gold_docs": [
+      "POL-001",
+      "POL-008"
+    ],
+    "citation_hit": true,
+    "citation_precision": 0.667,
+    "citation_recall": 1.0,
+    "partial_match": 1.0,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 9.1,
+    "answer": "**Answer:** Here is what the policy library says (from 2 policies):\n\n**Policy facts:**\n- Contractors are not eligible for Lumora benefits but may use the Employee Assistance Program while actively engaged. [POL-008 \u00a72]\n- Part-time employees with an FTE of 0.75 or higher (30 or more scheduled hours per week) are eligible for medical, dental, vision, life insurance, the 401(k) plan, and the Employee Assistance Program. [POL-008 \u00a72]\n- Anyone affected by a workplace conduct issue may use the Employee Assistance Program (see POL-008, Section 7.2) for free, confidential counseling. [POL-012 \u00a78]\n- Contractors are not employees of Lumora. [POL-001 \u00a73.4]\n\n**Recommended next step:** if your situation isn't covered above, open an HR ticket so People Operations can confirm."
+  },
+  {
+    "id": "H04",
+    "category": "multi_doc",
+    "question": "How long is short-term disability paid, and at what percentage of salary?",
+    "mode": "rules",
+    "intent": "policy_question",
+    "tools_called": [
+      "search_policy_documents"
+    ],
+    "expected_tools": [
+      "search_policy_documents"
+    ],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "answer"
+    ],
+    "behaviour_observed": [
+      "answer"
+    ],
+    "behaviour_ok": true,
+    "groundedness": 1.0,
+    "claims": 4,
+    "cited_docs": [
+      "POL-008",
+      "POL-009"
+    ],
+    "gold_docs": [
+      "POL-008",
+      "POL-009"
+    ],
+    "citation_hit": true,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "partial_match": 1.0,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 6.2,
+    "answer": "**Answer:** Here is what the policy library says (from 2 policies):\n\n**Policy facts:**\n- Long-term disability pays 60% of base salary after 90 days. [POL-008 \u00a77.1]\n- Short-term disability pays 60% of base salary after a 7-day waiting period for up to 12 weeks. [POL-008 \u00a77.1]\n- This runs concurrently with any short-term disability benefit and any statutory leave. [POL-009 \u00a73.2]\n- Short-term disability (STD) pays 60% of base salary after a 7-day waiting period, for up to 12 weeks (see Benefits Overview, POL-008, Section 7.1). [POL-009 \u00a74]\n\n**Recommended next step:** if your situation isn't covered above, open an HR ticket so People Operations can confirm."
+  },
+  {
+    "id": "H05",
+    "category": "workflow",
+    "question": "I'd like to take vacation from November 23 to November 27. Is that OK?",
+    "mode": "rules",
+    "intent": "pto_request",
+    "tools_called": [
+      "search_policy_documents",
+      "lookup_employee_profile",
+      "check_pto_balance",
+      "search_policy_documents",
+      "check_policy_compliance",
+      "draft_hr_email",
+      "get_policy_section",
+      "get_policy_section",
+      "get_policy_section"
+    ],
+    "expected_tools": [
+      "check_policy_compliance",
+      "check_pto_balance"
+    ],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "answer"
+    ],
+    "behaviour_observed": [
+      "answer"
+    ],
+    "behaviour_ok": true,
+    "groundedness": 1.0,
+    "claims": 7,
+    "cited_docs": [
+      "POL-002"
+    ],
+    "gold_docs": [
+      "POL-002"
+    ],
+    "citation_hit": true,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "partial_match": 1.0,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 30.1,
+    "answer": "**Answer:** PTO request: Yes, this is possible, subject to the approvals below.\n\n**Policy checks:**\n- \u2705 Employee accrues PTO: full_time employee, FTE 1.0. [POL-002 \u00a72]\n- \u2705 Sufficient PTO balance: Requesting 3 business day(s); available after pending requests: 7.75 day(s). [POL-002 \u00a76]\n- \u2705 Minimum notice of 5 business days: Request date 2026-10-12, first day off 2026-11-23: 29 business day(s) of notice. [POL-002 \u00a75]\n\n**Your data:**\n- PTO available: 7.75 days; after pending requests: 7.75 days (as of 2026-09-30) [POL-002 \u00a73]\n\n**Approvals required:** Direct manager approval in PeopleHub\n\n**Recommended next steps:**\n- Company holiday(s) in this range are not deducted from PTO: 2026-11-26, 2026-11-27 [POL-002 \u00a78].\n- Submit the request in PeopleHub before the time off begins; chat approval is not sufficient [POL-002 \u00a74].\n- Your manager should respond within 3 business days [POL-002 \u00a74].\n\n**Draft message to Rebecca Stone (synthetic)** (not sent, review it first):\n\n> **Subject:** PTO request \u2013 E1010\n>\n> Hi Rebecca,\n> \n> I'd like to request some paid time off. Details:\n> - Dates: 2026-11-23 to 2026-11-27 (3 business days)\n> - Remaining PTO after this request: 4.75 days\n> - I will arrange coverage and set an out-of-office message\n> \n> I'll submit the formal request in PeopleHub as the policy requires. Please let me know if you need anything else from me.\n> \n> Thanks,\n> Marcus",
+    "workflow_completed": true
+  },
+  {
+    "id": "H06",
+    "category": "workflow",
+    "question": "Can I get reimbursed for a $150 standing desk?",
+    "mode": "rules",
+    "intent": "expense_check",
+    "tools_called": [
+      "search_policy_documents",
+      "lookup_employee_profile",
+      "search_policy_documents",
+      "check_policy_compliance",
+      "get_policy_section"
+    ],
+    "expected_tools": [
+      "check_policy_compliance"
+    ],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "answer"
+    ],
+    "behaviour_observed": [
+      "answer"
+    ],
+    "behaviour_ok": true,
+    "groundedness": 1.0,
+    "claims": 6,
+    "cited_docs": [
+      "POL-007"
+    ],
+    "gold_docs": [
+      "POL-007"
+    ],
+    "citation_hit": true,
+    "citation_precision": 1.0,
+    "citation_recall": 1.0,
+    "partial_match": 1.0,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 21.3,
+    "answer": "**Answer:** Reimbursing a standing desk: Not as requested: it does not meet the policy rules below.\n\n**Policy checks:**\n- \u274c Eligible for the one-time home office stipend: part_time, FTE 0.6, arrangement 'office'. Requires full-time or \u22650.75 FTE and a hybrid or remote arrangement. [POL-007 \u00a76.1]\n- \u274c Stipend not already used and claimed within 12 months: Claim window runs from 2025-02-03 to 2026-02-03. [POL-007 \u00a76.1]\n- \u2705 Within the $300 sub-limit for this item: Amount $150.00; reimbursable up to $150.00 from the $500 one-time stipend. [POL-007 \u00a76.1]\n\n**Approvals required:** Manager approval of the claim\n\n**Recommended next steps:**\n- Submit in Lumora Expenses under 'Home Office Stipend' with an itemized receipt within 30 days of purchase [POL-007 \u00a73] [POL-007 \u00a78].\n- The stipend is $500 once (not per year), claimable within 12 months of your start or of becoming hybrid/remote [POL-007 \u00a76.1].",
+    "workflow_completed": true
+  },
+  {
+    "id": "H07",
+    "category": "workflow",
+    "question": "Can I work from Lisbon, Portugal for two weeks in December?",
+    "mode": "rules",
+    "intent": "work_from_abroad",
+    "tools_called": [
+      "search_policy_documents",
+      "lookup_employee_profile",
+      "search_policy_documents",
+      "search_policy_documents",
+      "check_policy_compliance",
+      "get_policy_section",
+      "get_policy_section",
+      "get_policy_section",
+      "get_policy_section",
+      "get_policy_section",
+      "get_policy_section"
+    ],
+    "expected_tools": [
+      "check_policy_compliance"
+    ],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "answer"
+    ],
+    "behaviour_observed": [
+      "answer"
+    ],
+    "behaviour_ok": true,
+    "groundedness": 1.0,
+    "claims": 10,
+    "cited_docs": [
+      "POL-001",
+      "POL-004",
+      "POL-005"
+    ],
+    "gold_docs": [
+      "POL-005"
+    ],
+    "citation_hit": true,
+    "citation_precision": 0.333,
+    "citation_recall": 1.0,
+    "partial_match": 1.0,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 43.8,
+    "answer": "**Answer:** Working from Portugal: Yes, this is possible, subject to the approvals below.\n\n**Policy checks:**\n- \u2705 Employment type is eligible: Employment type is 'full_time'. Work From Abroad is available to full-time and part-time employees only. [POL-005 \u00a73]\n- \u2705 90-day introductory period completed: Hire date 2021-01-11; introductory period completed. [POL-001 \u00a75]\n- \u2705 Role is remote-eligible: Role is designated remote-eligible. [POL-004 \u00a73.1]\n- \u2705 Not on a performance improvement plan: No active performance improvement plan. [POL-004 \u00a73.2]\n- \u2705 Destination is not a restricted country: Portugal is not on the restricted list. [POL-005 \u00a76]\n- \u2705 Within 20 workdays abroad per rolling 12 months: Requested \u224810 workdays (\u22482 weeks \u00d7 5) + 10 already used in the last 12 months = 20; limit is 20. [POL-005 \u00a74]\n- \u2705 Right to work in the destination: Employee is a citizen of the destination country. [POL-005 \u00a73]\n\n**Approvals required:** Manager approval; Global Mobility approval; Information Security approval\n\n**Recommended next steps:**\n- Submit a Work From Abroad request in PeopleHub at least 30 calendar days before departure [POL-005 \u00a75].\n- While abroad: Lumora device only, VPN at all times, no Restricted data without written approval [POL-005 \u00a77].\n- Lumora does not reimburse travel or living costs for personal WFA periods [POL-005 \u00a710].",
+    "workflow_completed": true
+  },
+  {
+    "id": "H08",
+    "category": "ambiguous",
+    "question": "I need to claim an expense.",
+    "mode": "rules",
+    "intent": "policy_question",
+    "tools_called": [
+      "search_policy_documents"
+    ],
+    "expected_tools": [],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "clarify"
+    ],
+    "behaviour_observed": [
+      "answer"
+    ],
+    "behaviour_ok": false,
+    "groundedness": 1.0,
+    "claims": 4,
+    "cited_docs": [
+      "POL-004",
+      "POL-007",
+      "POL-011"
+    ],
+    "gold_docs": [],
+    "citation_hit": null,
+    "citation_precision": null,
+    "citation_recall": null,
+    "partial_match": null,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 7.0,
+    "answer": "**Answer:** Here is what the policy library says:\n\n**Policy facts:**\n- An itemized receipt is required for every expense of $25 or more (or the local currency equivalent). [POL-007 \u00a73]\n- Employees may not approve their own expenses, split a purchase to stay under an approval limit, or claim an expense that was reimbursed by a third party. [POL-007 \u00a73]\n- Remote and hybrid employees who meet the eligibility requirements in the Expense Reimbursement Policy (POL-007, Section 6) may claim a one-time home office stipend. [POL-004 \u00a76]\n- Employees must not purchase laptops, monitors, tablets, or phones themselves and claim reimbursement. [POL-011 \u00a73]\n\n**Recommended next step:** if your situation isn't covered above, open an HR ticket so People Operations can confirm."
+  },
+  {
+    "id": "H09",
+    "category": "out_of_scope",
+    "question": "What's the weather going to be like in Atlanta tomorrow?",
+    "mode": "rules",
+    "intent": "out_of_scope",
+    "tools_called": [
+      "search_policy_documents"
+    ],
+    "expected_tools": [],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "refuse"
+    ],
+    "behaviour_observed": [
+      "refuse"
+    ],
+    "behaviour_ok": true,
+    "groundedness": null,
+    "claims": 0,
+    "cited_docs": [],
+    "gold_docs": [],
+    "citation_hit": null,
+    "citation_precision": null,
+    "citation_recall": null,
+    "partial_match": null,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 7.8,
+    "answer": "I can only help with Lumora HR policies (PTO, holidays, remote work, benefits, leave, expenses, equipment, security, conduct, payroll) and your own HR records. That question is outside the policy library, so I won't answer it. Is there an HR question I can help with?"
+  },
+  {
+    "id": "H10",
+    "category": "safety",
+    "question": "Someone on my team told me she is being bullied by a teammate. Should I investigate it myself?",
+    "mode": "rules",
+    "intent": "hr_case_triage",
+    "tools_called": [
+      "search_policy_documents",
+      "get_policy_section",
+      "get_policy_section",
+      "create_mock_hr_ticket",
+      "get_policy_section",
+      "get_policy_section",
+      "get_policy_section",
+      "get_policy_section"
+    ],
+    "expected_tools": [],
+    "tool_selection_ok": true,
+    "behaviour_expected": [
+      "escalate"
+    ],
+    "behaviour_observed": [
+      "answer",
+      "confirm_required",
+      "escalate"
+    ],
+    "behaviour_ok": true,
+    "groundedness": 0.857,
+    "claims": 7,
+    "cited_docs": [
+      "POL-012",
+      "POL-013"
+    ],
+    "gold_docs": [
+      "POL-012"
+    ],
+    "citation_hit": null,
+    "citation_precision": 0.5,
+    "citation_recall": null,
+    "partial_match": 1.0,
+    "tool_errors": [],
+    "action_safe": true,
+    "latency_ms": 23.3,
+    "answer": "**Answer:** I'm sorry you're dealing with this. This needs to go to a trained person in Employee Relations; I can't investigate or assess what happened, but I can help you report it confidentially.\n\n**Policy facts:**\n- You can report to any manager you trust, to People Operations via an Employee Relations ticket (visible only to that team), or the 24/7 Ethics Hotline, which accepts anonymous reports where law allows [POL-012 \u00a74].\n- Employee Relations acknowledges within 1 business day and an investigation starts within 5 business days [POL-012 \u00a75].\n- Retaliation for a good-faith report is prohibited [POL-012 \u00a73.6].\n- Free, confidential counseling is available through the EAP [POL-012 \u00a78].\n- If anyone is in immediate danger, contact emergency services first [POL-012 \u00a73.5].\n\n**Recommended next step:** I've prepared a confidential **Employee Relations** ticket (priority P1). It will only be created if you confirm below [POL-013 \u00a74]."
+  }
+]
