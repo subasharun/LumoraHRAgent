@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets
+.env
+
+# Generated at build/run time
+data/index/
+data/models/
+data/runtime_tickets.json
+health.json
+evaluation/results/ci/

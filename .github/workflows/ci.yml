@@ -1,0 +1,98 @@
+# CI/CD: lint → build index → import/start checks → MCP smoke test → unit/integration tests → deploy.
+# Deployment to Render runs only on pushes to main, and only if every check in `test` passed.
+name: CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      # Offline, deterministic settings: TF-IDF embeddings (no model download), rules planner (no API key),
+      # pinned date for the date-based policy rules.
+      EMBEDDING_BACKEND: tfidf
+      AGENT_MODE: rules
+      APP_TODAY: "2026-10-12"
+      PYTHONHASHSEED: "42"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt -r requirements-dev.txt
+
+      - name: Lint
+        run: ruff check .
+
+      - name: Build policy index
+        run: python -m hr_agent.rag.build_index --backend tfidf
+
+      - name: Import check
+        run: python -c "import hr_agent.web.app, mcp_server.server; print('imports ok')"
+
+      - name: MCP tool discovery + tool call smoke test
+        run: python scripts/mcp_smoke_test.py
+
+      - name: App start check (uvicorn + /health)
+        run: |
+          uvicorn hr_agent.web.app:app --port 8000 &
+          for i in $(seq 1 30); do
+            if curl -fsS localhost:8000/health > health.json; then break; fi
+            sleep 1
+          done
+          cat health.json
+          python -c "import json; h=json.load(open('health.json')); assert h['status']=='ok' and h['mcp']['connected'], h"
+          kill %1
+
+      - name: Tests
+        run: pytest -v
+
+      - name: Evaluation (offline rules planner)
+        run: python evaluation/run_eval.py --mode rules --out evaluation/results/ci
+        continue-on-error: true   # metrics are reported, not gated
+
+      - name: Upload evaluation results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: evaluation-results
+          path: evaluation/results/ci
+          if-no-files-found: ignore
+
+  deploy:
+    # Runs only after `test` succeeded, and only for pushes to main.
+    needs: test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Render deploy hook
+        env:
+          RENDER_DEPLOY_HOOK_URL: ${{ secrets.RENDER_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$RENDER_DEPLOY_HOOK_URL" ]; then
+            echo "RENDER_DEPLOY_HOOK_URL secret not set; skipping deploy."
+            exit 0
+          fi
+          curl -fsS -X POST "$RENDER_DEPLOY_HOOK_URL"
+          echo "Deploy triggered."
+
+      - name: Post-deploy health check
+        env:
+          DEPLOYED_URL: ${{ vars.DEPLOYED_URL }}
+        run: |
+          if [ -z "$DEPLOYED_URL" ]; then echo "DEPLOYED_URL variable not set; skipping."; exit 0; fi
+          # Free-tier builds take a few minutes; poll /health for up to 15 minutes.
+          for i in $(seq 1 30); do
+            if curl -fsS "$DEPLOYED_URL/health"; then echo; echo "Deployed app is healthy."; exit 0; fi
+            sleep 30
+          done
+          echo "Deployed app did not report healthy in time."; exit 1
